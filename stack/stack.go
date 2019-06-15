@@ -1,15 +1,17 @@
 package stack
 
 type (
-    Stack struct {
-        top *node
-        length int
+    Stack struct {      // 栈类,
+        top *node       // 当前栈顶所对应的元素信息,
+        length int      // 当前栈的长度
     }
-    node struct {
+    node struct {       // 栈中节点类的设计
         value interface{}
         prev *node
     }
 )
+
+
 // Create a new stack
 func New() *Stack {
     return &Stack{nil,0}

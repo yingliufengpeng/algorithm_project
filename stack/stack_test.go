@@ -7,6 +7,7 @@ import (
 
 var s = New()
 
+
 func TestStringPush(t *testing.T) {
 	s.Push("H")
 	fmt.Println(s.Peek())
