@@ -12,3 +12,4 @@
 *.out
 target
 dotty-example-project/project/target
+dotty-example-project/target
