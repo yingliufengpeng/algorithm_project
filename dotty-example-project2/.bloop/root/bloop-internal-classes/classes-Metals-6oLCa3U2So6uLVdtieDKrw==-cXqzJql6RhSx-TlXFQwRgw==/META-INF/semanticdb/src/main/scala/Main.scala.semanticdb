@@ -1,0 +1,38 @@
+
+’
+src\main\scala\Main.scala*'
+_empty_/Main.main().(args)*args€*-
+ _empty_/Main.runExample().(name)*name€*
+_empty_/Main.
+ *Main€*'
+_empty_/Main.runExample().(f)*f€*!
+_empty_/Main.main().*main€*-
+_empty_/Main.runExample().*
+runExample€2
+ _empty_/Main.2"
+ 
+_empty_/Main.main().2(
+ _empty_/Main.main().(args)2
+ scala/Array#2"
+ scala/Predef.String#2
+! %scala/Unit#2(
+ _empty_/Main.runExample().2'
+' +_empty_/ArrayDemo.test().2 
+ &_empty_/ArrayDemo.2(
+"" _empty_/Main.runExample().2.
+""  _empty_/Main.runExample().(name)2"
+"" %scala/Predef.String#2+
+"'" (_empty_/Main.runExample().(f)2
+"-" 1scala/Unit#2'
+## scala/Predef.println(+1).2%
+#0# 1java/lang/String#`+`().2%
+## java/lang/String#`+`().2)
+## scala/io/AnsiColor#MAGENTA.2
+## scala/Console.2&
+#.# .scala/StringContext#s().2*
+# #  scala/StringContext.apply().2.
+#!# % _empty_/Main.runExample().(name)2'
+#:# ?scala/io/AnsiColor#RESET.2
+#2# 9scala/Console.2+
+$$ _empty_/Main.runExample().(f)2%
+%% scala/Predef.println().PZ DD3562CA81E875D332DFFEF54A2FAF20

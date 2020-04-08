@@ -1,0 +1,271 @@
+
+¤V$src\main\scala\PatternMatching.scala*
+local6*list€*L
+?_empty_/PatternMatching.productPattern.Person#`<init>`().(name)*name€*C
+9_empty_/PatternMatching.booleanPattern.Even.unapply().(s)*s€*6
+)_empty_/PatternMatching.namePattern.Name#*Name€*F
+4_empty_/PatternMatching.namePattern.Name#`<init>`(). €@*<init>€*I
+<_empty_/PatternMatching.seqPattern.Names.unapplySeq().(name)*name€*
+local13*greet€*H
+8_empty_/PatternMatching.productPattern.Person.unapply().*unapply€*A
+2_empty_/PatternMatching.productPattern.Person#age. €*age€*@
+6_empty_/PatternMatching.namePattern.Name.unapply().(s)*s€*I
+6_empty_/PatternMatching.seqPattern.Names.unapplySeq().*
+unapplySeq€*L
+?_empty_/PatternMatching.productPattern.Person#canEqual().(that)*that€*
+local3 €*s€*2
+_empty_/PatternMatching.
+ *PatternMatching€*:
+$_empty_/PatternMatching.namePattern.
+ *namePattern€*
+local15 €*lastName€*C
+3_empty_/PatternMatching.namePattern.Name#isEmpty().*isEmpty€*"
+local5*containsConsecutive€*J
+:_empty_/PatternMatching.namePattern.Name#`<init>`().(name) €*name€*
+local14*fullName€*8
+#_empty_/PatternMatching.seqPattern.
+ *
+seqPattern€*F
+6_empty_/PatternMatching.booleanPattern.Even.unapply().*unapply€*C
+3_empty_/PatternMatching.namePattern.Name.unapply().*unapply€*J
+>_empty_/PatternMatching.productPattern.Person#`<init>`().(age)*age€*J
+9_empty_/PatternMatching.productPattern.Person#canEqual().*canEqual€*
+local7 €*a€*
+local17 €*n€*V
+?_empty_/PatternMatching.productPattern.Person#productElement().*productElement€*
+local12 €*a€*
+local2 €*elem$1€*C
+3_empty_/PatternMatching.productPattern.Person#name. €*name€*@
+'_empty_/PatternMatching.booleanPattern.
+ *booleanPattern€*
+local8 €*b€*L
+B_empty_/PatternMatching.productPattern.Person#productElement().(n)*n€*
+local10 €*a€*?
+._empty_/PatternMatching.productPattern.Person.
+ *Person€*8
+)_empty_/PatternMatching.namePattern.Name.
+ *Name€*=
+._empty_/PatternMatching.productPattern.Person#*Person€*
+local11 €*n€*
+local0 €*names€*
+local9 €*xs€*,
+_empty_/PatternMatching.test().*test€*>
+3_empty_/PatternMatching.productPattern.Person#_2().*_2€*>
+._empty_/PatternMatching.namePattern.Name#name. €*name€*E
+;_empty_/PatternMatching.productPattern.Person.unapply().(a)*a€*
+local16 €*	firstName€*@
+'_empty_/PatternMatching.productPattern.
+ *productPattern€*R
+=_empty_/PatternMatching.productPattern.Person#productArity().*productArity€*;
+,_empty_/PatternMatching.booleanPattern.Even.
+ *Even€*;
+/_empty_/PatternMatching.namePattern.Name#get().*get€*>
+3_empty_/PatternMatching.productPattern.Person#_1().*_1€*
+local1 €*elem$2€*K
+9_empty_/PatternMatching.productPattern.Person#`<init>`(). €@*<init>€*
+local4 €*s€*9
+)_empty_/PatternMatching.seqPattern.Names.
+ *Names€2&
+ _empty_/PatternMatching.25
+	 '_empty_/PatternMatching.booleanPattern.2:
+ ,_empty_/PatternMatching.booleanPattern.Even.2D
+	
+	 6_empty_/PatternMatching.booleanPattern.Even.unapply().2G
+		 9_empty_/PatternMatching.booleanPattern.Even.unapply().(s)2"
+		 scala/Predef.String#2
+		 %scala/Boolean#2!
+	5	 7scala/Int#`==`(+3).2 
+	1	 2scala/Int#`%`(+3).2(
+	*	 0java/lang/String#length().2G
+	(	 )9_empty_/PatternMatching.booleanPattern.Even.unapply().(s)25
+	 '_empty_/PatternMatching.productPattern.2<
+
+ ._empty_/PatternMatching.productPattern.Person#2G
+ (9_empty_/PatternMatching.productPattern.Person#`<init>`().2"
+ scala/Predef.String#2
+$ '
+scala/Int#2
+1 8scala/Product#2A
+ 3_empty_/PatternMatching.productPattern.Person#name.2@
+ "2_empty_/PatternMatching.productPattern.Person#age.2A
+
+ 3_empty_/PatternMatching.productPattern.Person#_1().2@
+ 2_empty_/PatternMatching.productPattern.Person#age.2A
+
+ 3_empty_/PatternMatching.productPattern.Person#_2().2A
+ 3_empty_/PatternMatching.productPattern.Person#name.2G
+
+ 9_empty_/PatternMatching.productPattern.Person#canEqual().2M
+ ?_empty_/PatternMatching.productPattern.Person#canEqual().(that)2
+ 
+scala/Any#2
+ &scala/Boolean#2#
+) ,scala/Predef.`???`().2K
+
+ =_empty_/PatternMatching.productPattern.Person#productArity().2
+ 
+scala/Int#2#
+ !scala/Predef.`???`().2M
+
+ ?_empty_/PatternMatching.productPattern.Person#productElement().2P
+ B_empty_/PatternMatching.productPattern.Person#productElement().(n)2
+ 
+scala/Int#2
+" %
+scala/Any#2#
+( +scala/Predef.`???`().2<
+ ._empty_/PatternMatching.productPattern.Person.2F
+
+ 8_empty_/PatternMatching.productPattern.Person.unapply().2I
+ ;_empty_/PatternMatching.productPattern.Person.unapply().(a)2"
+ scala/Predef.String#2
+ !
+scala/Int#2<
+% +._empty_/PatternMatching.productPattern.Person#2G
+8 89_empty_/PatternMatching.productPattern.Person#`<init>`().2<
+2 8._empty_/PatternMatching.productPattern.Person#2
+; =scala/Tuple2#_1.2I
+9 :;_empty_/PatternMatching.productPattern.Person.unapply().(a)2
+A Cscala/Tuple2#_2.2I
+? @;_empty_/PatternMatching.productPattern.Person.unapply().(a)21
+"	" #_empty_/PatternMatching.seqPattern.27
+%% )_empty_/PatternMatching.seqPattern.Names.2D
+&
+& 6_empty_/PatternMatching.seqPattern.Names.unapplySeq().2J
+&& <_empty_/PatternMatching.seqPattern.Names.unapplySeq().(name)2"
+&& !scala/Predef.String#2
+&$& *scala/Option#2 
+&+& .scala/package.Seq#2"
+&/& 5scala/Predef.String#2
+'' local02)
+'' #java/lang/String#split(+1).2&
+'' java/lang/String#trim().2J
+'' <_empty_/PatternMatching.seqPattern.Names.unapplySeq().(name)2 
+(( scala/Int#`<`(+3).2/
+(( !scala/collection/ArrayOps#size().2)
+(( scala/Predef.refArrayOps().2
+(( local02
+((  scala/None.2!
+)) scala/Some.apply().2
+)) scala/Some.25
+)O) O'scala/collection/immutable/List#`::`().28
+)I) O*scala/collection/IterableOnceOps#toList().28
+).) .*scala/LowPriorityImplicits#wrapRefArray().24
+)<) E&scala/collection/ArrayOps#dropRight().2)
+).) .scala/Predef.refArrayOps().2/
+)4) 8!scala/collection/ArrayOps#drop().2
+).) 3local02
+)&) &local22
+)) local122
+/	/ $_empty_/PatternMatching.namePattern.27
+1
+1 )_empty_/PatternMatching.namePattern.Name#2B
+11  4_empty_/PatternMatching.namePattern.Name#`<init>`().2"
+11 scala/Predef.String#2<
+11 ._empty_/PatternMatching.namePattern.Name#name.2=
+2
+2 /_empty_/PatternMatching.namePattern.Name#get().2"
+22 scala/Predef.String#2<
+22 ._empty_/PatternMatching.namePattern.Name#name.2A
+3
+3 3_empty_/PatternMatching.namePattern.Name#isEmpty().2)
+33  java/lang/String#isEmpty().2<
+33 ._empty_/PatternMatching.namePattern.Name#name.27
+66 )_empty_/PatternMatching.namePattern.Name.2A
+7
+7 3_empty_/PatternMatching.namePattern.Name.unapply().2D
+77 6_empty_/PatternMatching.namePattern.Name.unapply().(s)2"
+77 scala/Predef.String#27
+77 ")_empty_/PatternMatching.namePattern.Name#2B
+7-7 -4_empty_/PatternMatching.namePattern.Name#`<init>`().27
+7)7 -)_empty_/PatternMatching.namePattern.Name#2D
+7.7 /6_empty_/PatternMatching.namePattern.Name.unapply().(s)2-
+<< 
+_empty_/PatternMatching.test().2
+<< scala/Unit#25
+>> '_empty_/PatternMatching.booleanPattern.2
+AA local32D
+AA 6_empty_/PatternMatching.booleanPattern.Even.unapply().2:
+AA ,_empty_/PatternMatching.booleanPattern.Even.2'
+AA  scala/Predef.println(+1).2&
+AFA Fscala/StringContext#s().2*
+A#A #scala/StringContext.apply().2
+A$A %local32
+BB local42'
+BB scala/Predef.println(+1).2&
+B<B <scala/StringContext#s().2*
+BB scala/StringContext.apply().2
+BB local42
+FF local52
+FF  local62!
+F"F &scala/package.List#2
+F'F *
+scala/Int#2
+F.F 5scala/Boolean#2
+F8F <local627
+GG )scala/collection/SeqFactory#unapplySeq().2!
+GG scala/package.List.2
+GG local72
+GG local82
+GG local92!
+G(G *scala/Int#`==`(+3).2
+G&G 'local72
+G+G ,local82
+G8G Klocal525
+GZG Z'scala/collection/immutable/List#`::`().28
+GTG Z*scala/collection/IterableOnceOps#toList().2
+GQG Slocal92
+GLG Mlocal827
+HH )scala/collection/SeqFactory#unapplySeq().2!
+HH scala/package.List.2
+HH local102 
+II scala/package.Nil.2'
+LL scala/Predef.println(+1).2
+LL local527
+L$L $)scala/collection/IterableFactory#apply().2!
+L L $scala/package.List.2'
+MM scala/Predef.println(+1).2
+MM local527
+M$M $)scala/collection/IterableFactory#apply().2!
+M M $scala/package.List.25
+OO '_empty_/PatternMatching.productPattern.2#
+PP scala/Tuple2.apply().2F
+QQ 8_empty_/PatternMatching.productPattern.Person.unapply().2<
+QQ ._empty_/PatternMatching.productPattern.Person.2
+QQ local112
+QQ local122'
+QQ "scala/Predef.println(+1).2&
+Q6Q 6scala/StringContext#s().2*
+Q%Q %scala/StringContext.apply().2
+Q,Q -local112
+Q5Q 6local1221
+TT #_empty_/PatternMatching.seqPattern.2
+VV local132
+VV local142"
+VV scala/Predef.String#2
+V"V *local142D
+WW 6_empty_/PatternMatching.seqPattern.Names.unapplySeq().27
+WW )_empty_/PatternMatching.seqPattern.Names.2
+WW local152
+WW $local162%
+W^W _java/lang/String#`+`().2%
+WSW Tjava/lang/String#`+`().2%
+WMW Njava/lang/String#`+`().2%
+WAW Bjava/lang/String#`+`().2
+WCW Llocal162
+WUW ]local152'
+[[ scala/Predef.println(+1).2
+[[ local132'
+\\ scala/Predef.println(+1).2
+\\ local132'
+]] scala/Predef.println(+1).2
+]] local1322
+__ $_empty_/PatternMatching.namePattern.2A
+aa 3_empty_/PatternMatching.namePattern.Name.unapply().27
+aa )_empty_/PatternMatching.namePattern.Name.2
+aa local172'
+aa scala/Predef.println(+1).2&
+a*a *scala/StringContext#s().2*
+a a  scala/StringContext.apply().2
+a)a *local172'
+bb scala/Predef.println(+1).PZ 92E32259BB10696B845520384B16E1B5

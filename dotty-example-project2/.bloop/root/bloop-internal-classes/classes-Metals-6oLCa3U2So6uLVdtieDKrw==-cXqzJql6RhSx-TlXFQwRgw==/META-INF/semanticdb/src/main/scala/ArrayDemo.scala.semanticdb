@@ -1,0 +1,262 @@
+
+°Qsrc\main\scala\ArrayDemo.scala*7
++_empty_/ArrayDemo.Array2#`<init>`(+2).(ini)*ini€*&
+_empty_/ArrayDemo.
+ *	ArrayDemo€*0
+&_empty_/ArrayDemo.Array2#flatMap().(f)*f€*3
+)_empty_/ArrayDemo.Array2#`<init>`(+1).(n)*n€*<
++_empty_/ArrayDemo.Array2#`<init>`().(array) €*array€*1
+"_empty_/ArrayDemo.Array2#filter().*filter€*
+local5 €*arr3€*4
+'_empty_/ArrayDemo.Array2#`<init>`().(n) €*n€*&
+_empty_/ArrayDemo.Array2#[A]	*A€*3
+#_empty_/ArrayDemo.Array2#foreach().*foreach€*
+local2*e€*
+local4 €*arr2€*
+local9*x€*,
+"_empty_/ArrayDemo.Array2#map().(f)*f€*,
+"_empty_/ArrayDemo.Array2#map().[B]	*B€*6
+$_empty_/ArrayDemo.Array2#`<init>`(). €@*<init>€*3
+)_empty_/ArrayDemo.Array2#`<init>`(+2).(n)*n€*.
+$_empty_/ArrayDemo.Array2.apply().[A]	*A€*(
+_empty_/ArrayDemo.Array2#*Array2€*&
+_empty_/ArrayDemo.test().*test€*/
+!_empty_/ArrayDemo.Array2.apply().*apply€*
+local3 €*arr€*
+local8 €*arr4€*5
+(_empty_/ArrayDemo.Array2#filter().(cond)*cond€*+
+_empty_/ArrayDemo.Array2#map().*map€*
+local6*e€*3
+#_empty_/ArrayDemo.Array2#flatMap().*flatMap€*0
+&_empty_/ArrayDemo.Array2#flatMap().[B]	*B€*(
+_empty_/ArrayDemo.Array2#n. €*n€*
+local1 €*buf€*5
+$_empty_/ArrayDemo.Array2#toString().*toString€*0
+&_empty_/ArrayDemo.Array2#foreach().(f)*f€*
+local0 €*buf€*
+local10 €*arr5€*5
+&_empty_/ArrayDemo.Array2#`<init>`(+1).*<init>€*
+local7*index€*4
+'_empty_/ArrayDemo.Array2.apply().(arrs)*arrs€*/
+%_empty_/ArrayDemo.Array2#filter().[B]	*B€*5
+&_empty_/ArrayDemo.Array2#`<init>`(+2).*<init>€*0
+_empty_/ArrayDemo.Array2#array. €*array€**
+_empty_/ArrayDemo.Array2.
+ *Array2€2!
+ scala/reflect/ClassTag.2!
+ scala/reflect/ClassTag#2
+ scala/reflect/2
+ scala/23
+  +%scala/collection/mutable/ArrayBuffer.23
+  +%scala/collection/mutable/ArrayBuffer#2'
+ scala/collection/mutable/2
+ scala/collection/2
+ scala/2 
+ _empty_/ArrayDemo.2'
+
+ _empty_/ArrayDemo.Array2#22
+ >$_empty_/ArrayDemo.Array2#`<init>`().2
+% (
+scala/Int#2
+5 :scala/Array#2*
+; <_empty_/ArrayDemo.Array2#[A]2%
+ scala/reflect/ClassTag#2*
+ _empty_/ArrayDemo.Array2#[A]2*
+ _empty_/ArrayDemo.Array2#[A]2)
+" #_empty_/ArrayDemo.Array2#n.2-
+. 3_empty_/ArrayDemo.Array2#array.2(
+	 	scala/Boolean#`unary_!`().24
+ 	(dotty/DottyPredef.assert(+1).(assertion)2-
+ dotty/DottyPredef.assertFail().2+
+ dotty/DottyPredef.assert(+1).2 
+ scala/Int#`>`(+3).2)
+ _empty_/ArrayDemo.Array2#n.24
+		 &_empty_/ArrayDemo.Array2#`<init>`(+1).27
+		 )_empty_/ArrayDemo.Array2#`<init>`(+1).(n)2
+		 
+scala/Int#22
+
+
+ $_empty_/ArrayDemo.Array2#`<init>`().27
+
+
+ )_empty_/ArrayDemo.Array2#`<init>`(+1).(n)2"
+
+
+ scala/Array.ofDim().2
+
+
+ scala/Array.27
+
+ 
+ !)_empty_/ArrayDemo.Array2#`<init>`(+1).(n)24
+ &_empty_/ArrayDemo.Array2#`<init>`(+2).27
+ )_empty_/ArrayDemo.Array2#`<init>`(+2).(n)2
+ 
+scala/Int#29
+ +_empty_/ArrayDemo.Array2#`<init>`(+2).(ini)2
+ !
+scala/Int#2*
+% &_empty_/ArrayDemo.Array2#[A]22
+ $_empty_/ArrayDemo.Array2#`<init>`().27
+ )_empty_/ArrayDemo.Array2#`<init>`(+2).(n)2%
+ "scala/Array.tabulate().2
+ scala/Array.27
+# $)_empty_/ArrayDemo.Array2#`<init>`(+2).(n)29
+& )+_empty_/ArrayDemo.Array2#`<init>`(+2).(ini)2-
+ _empty_/ArrayDemo.Array2#map().20
+ "_empty_/ArrayDemo.Array2#map().[B]20
+ "_empty_/ArrayDemo.Array2#map().(f)2*
+  !_empty_/ArrayDemo.Array2#[A]20
+% &"_empty_/ArrayDemo.Array2#map().[B]2%
+ scala/reflect/ClassTag#20
+ "_empty_/ArrayDemo.Array2#map().[B]2'
+) /_empty_/ArrayDemo.Array2#20
+0 1"_empty_/ArrayDemo.Array2#map().[B]22
+B B$_empty_/ArrayDemo.Array2#`<init>`().2'
+9 ?_empty_/ArrayDemo.Array2#20
+@ A"_empty_/ArrayDemo.Array2#map().[B]2)
+H I_empty_/ArrayDemo.Array2#n.2.
+V Y scala/collection/ArrayOps#map().2-
+K Kscala/Predef.genericArrayOps().2-
+P U_empty_/ArrayDemo.Array2#array.20
+Z ["_empty_/ArrayDemo.Array2#map().(f)21
+ #_empty_/ArrayDemo.Array2#flatMap().24
+ &_empty_/ArrayDemo.Array2#flatMap().[B]24
+! "&_empty_/ArrayDemo.Array2#flatMap().(f)2*
+$ %_empty_/ArrayDemo.Array2#[A]2'
+) /_empty_/ArrayDemo.Array2#24
+0 1&_empty_/ArrayDemo.Array2#flatMap().[B]2%
+ scala/reflect/ClassTag#24
+ &_empty_/ArrayDemo.Array2#flatMap().[B]2
+ local02;
+" '-scala/collection/mutable/ArrayBuffer.empty().23
+ !%scala/collection/mutable/ArrayBuffer.24
+( )&_empty_/ArrayDemo.Array2#flatMap().[B]22
+ $scala/collection/ArrayOps#foreach().2-
+ scala/Predef.genericArrayOps().2-
+ _empty_/ArrayDemo.Array2#array.28
+# &*scala/collection/mutable/Growable#`++=`().2
+ "local02<
+' '.scala/LowPriorityImplicits#genericWrapArray().2-
+, 1_empty_/ArrayDemo.Array2#array.2&
+( (scala/Function1#apply().24
+' (&_empty_/ArrayDemo.Array2#flatMap().(f)22
+ $_empty_/ArrayDemo.Array2#`<init>`().2'
+ _empty_/ArrayDemo.Array2#24
+ &_empty_/ArrayDemo.Array2#flatMap().[B]2<
+ $.scala/collection/mutable/ArrayBuffer#length().2
+ local029
+* 1+scala/collection/IterableOnceOps#toArray().2
+& )local020
+ "_empty_/ArrayDemo.Array2#filter().23
+ %_empty_/ArrayDemo.Array2#filter().[B]2*
+ _empty_/ArrayDemo.Array2#[A]26
+ (_empty_/ArrayDemo.Array2#filter().(cond)2*
+! "_empty_/ArrayDemo.Array2#[A]2
+& -scala/Boolean#2'
+0 6_empty_/ArrayDemo.Array2#2*
+7 8_empty_/ArrayDemo.Array2#[A]2
+ local12;
+" '-scala/collection/mutable/ArrayBuffer.empty().23
+ !%scala/collection/mutable/ArrayBuffer.2*
+( )_empty_/ArrayDemo.Array2#[A]2=
+ 2  2/scala/collection/ArrayOps.WithFilter#foreach().25
+   'scala/collection/ArrayOps#withFilter().2-
+   scala/Predef.genericArrayOps().2-
+   _empty_/ArrayDemo.Array2#array.2
+   local22#
+ +  -scala/Boolean#`==`().2&
+ '  'scala/Function1#apply().26
+ #  '(_empty_/ArrayDemo.Array2#filter().(cond)2
+ (  )local227
+"" )scala/collection/mutable/Growable#`+=`().2
+"" local12
+"" local222
+%% $_empty_/ArrayDemo.Array2#`<init>`().2'
+%% _empty_/ArrayDemo.Array2#2*
+%% _empty_/ArrayDemo.Array2#[A]2<
+%% $.scala/collection/mutable/ArrayBuffer#length().2
+%% local129
+%*% 1+scala/collection/IterableOnceOps#toArray().2
+%&% )local121
+)) #_empty_/ArrayDemo.Array2#foreach().24
+)) &_empty_/ArrayDemo.Array2#foreach().(f)2*
+)) _empty_/ArrayDemo.Array2#[A]2
+))  scala/Unit#2
+)#) 'scala/Unit#22
+++ $scala/collection/ArrayOps#foreach().2-
+++ scala/Predef.genericArrayOps().2-
+++ _empty_/ArrayDemo.Array2#array.24
+++  &_empty_/ArrayDemo.Array2#foreach().(f)22
+.. $_empty_/ArrayDemo.Array2#toString().2"
+.!. 'scala/Predef.String#2<
+.G. O.scala/collection/IterableOnceOps#mkString(+1).28
+.*. **scala/LowPriorityImplicits#wrapRefArray().2.
+.5. 8 scala/collection/ArrayOps#map().2-
+.*. *scala/Predef.genericArrayOps().2-
+./. 4_empty_/ArrayDemo.Array2#array.2#
+.;. Cscala/Any#toString().2-
+.F. Fscala/reflect/ClassTag.apply().2'
+22 _empty_/ArrayDemo.Array2.2/
+55 !_empty_/ArrayDemo.Array2.apply().22
+55 $_empty_/ArrayDemo.Array2.apply().[A]25
+55 #'_empty_/ArrayDemo.Array2.apply().(arrs)22
+5%5 &$_empty_/ArrayDemo.Array2.apply().[A]2%
+55 scala/reflect/ClassTag#22
+55 $_empty_/ArrayDemo.Array2.apply().[A]22
+77 $_empty_/ArrayDemo.Array2#`<init>`().2/
+77 "!scala/collection/SeqOps#length().25
+77 '_empty_/ArrayDemo.Array2.apply().(arrs)29
+7)7 0+scala/collection/IterableOnceOps#toArray().25
+7$7 ('_empty_/ArrayDemo.Array2.apply().(arrs)2'
+<< _empty_/ArrayDemo.test().2
+<< scala/Unit#2
+>> local324
+>!> !&_empty_/ArrayDemo.Array2#`<init>`(+2).2'
+>> _empty_/ArrayDemo.Array2#2
+>>  
+scala/Int#2 
+>'> (scala/Int#`+`(+4).2-
+>+> +scala/reflect/ClassTag.apply().2%
+>+> +java/lang/Integer#TYPE.2
+@@ local42-
+@@ _empty_/ArrayDemo.Array2#map().2
+@@ local32 
+@@ scala/Int#`*`(+3).2-
+@!@ !scala/reflect/ClassTag.apply().2%
+@!@ !java/lang/Integer#TYPE.2'
+AA scala/Predef.println(+1).2&
+AA scala/StringContext#s().2*
+AA scala/StringContext.apply().2
+AA local42
+CC local521
+CC #_empty_/ArrayDemo.Array2#flatMap().2
+CC local32"
+CC %scala/Predef.String#2
+C'C (local624
+C6C 6&_empty_/ArrayDemo.Array2#`<init>`(+2).2
+C:C ?local72#
+COC Wscala/Any#toString().2 
+CJC Kscala/Int#`+`(+4).2
+CDC Ilocal72-
+CZC Zscala/reflect/ClassTag.apply().2-
+C[C [scala/reflect/ClassTag.apply().2'
+DD scala/Predef.println(+1).2&
+DD scala/StringContext#s().2*
+DD scala/StringContext.apply().2
+DD local52
+FF local821
+FF #_empty_/ArrayDemo.Array2#foreach().2
+FF local32'
+FF &scala/Predef.println(+1).2
+FF local92
+HH local102/
+HH !_empty_/ArrayDemo.Array2.apply().2'
+HH _empty_/ArrayDemo.Array2.2-
+H%H %scala/reflect/ClassTag.apply().2%
+H%H %java/lang/Integer#TYPE.2'
+II scala/Predef.println(+1).2&
+II scala/StringContext#s().2*
+II scala/StringContext.apply().2
+II local10PZ D52C1E4637F6F03DDFFCCF659CCE854C
