@@ -1,0 +1,87 @@
+
+ê$src\main\scala\StructuralTypes.scala*2
+_empty_/StructuralTypes.
+ *StructuralTypes€*<
+._empty_/StructuralTypes.Record.apply().(elems)*elems€*?
+&_empty_/StructuralTypes.invalidPerson. €*invalidPerson€*,
+_empty_/StructuralTypes.test().*test€*<
+*_empty_/StructuralTypes.Record#`<init>`(). €@*<init>€*5
+'_empty_/StructuralTypes.Record.apply().*apply€*.
+_empty_/StructuralTypes.Person#*Person€*0
+_empty_/StructuralTypes.Record.
+ *Record€*1
+_empty_/StructuralTypes.person. €*person€*1
+_empty_/StructuralTypes.Record# €*Record€*6
+%_empty_/StructuralTypes.Record#elems. €*elems€*B
+5_empty_/StructuralTypes.Record#selectDynamic().(name)*name€*?
+,_empty_/StructuralTypes.Record.unapplySeq().*
+unapplySeq€*B
+1_empty_/StructuralTypes.Record#`<init>`().(elems) €*elems€*=
+1_empty_/StructuralTypes.Record.unapplySeq().(x$1)*x$1€*E
+/_empty_/StructuralTypes.Record#selectDynamic().*selectDynamic€*/
+$_empty_/StructuralTypes.Record#_1().*_1€*
+local1 „*age€*
+local0 „*name€2&
+ _empty_/StructuralTypes.2-
+ _empty_/StructuralTypes.Record#28
+ **_empty_/StructuralTypes.Record#`<init>`().2"
+ "scala/Predef.String#2
+$ '
+scala/Any#2
+3 =scala/Selectable#23
+ %_empty_/StructuralTypes.Record#elems.2=
+ /_empty_/StructuralTypes.Record#selectDynamic().2C
+ 5_empty_/StructuralTypes.Record#selectDynamic().(name)2"
+ "scala/Predef.String#2
+% (
+scala/Any#2
+H Jscala/Tuple2#_2.2!
+D Gscala/Option#get().26
+1 5(scala/collection/IterableOnceOps#find().23
++ 0%_empty_/StructuralTypes.Record#elems.2
+; =scala/Any#`==`().2
+8 :scala/Tuple2#_1.2C
+> B5_empty_/StructuralTypes.Record#selectDynamic().(name)2-
+
+
+ _empty_/StructuralTypes.Person#2-
+
+
+ _empty_/StructuralTypes.Record#2
+ local02"
+ scala/Predef.String#2
+ local12
+ 
+scala/Int#2-
+ _empty_/StructuralTypes.person.2'
+G Sscala/Any#asInstanceOf().25
+ '_empty_/StructuralTypes.Record.apply().2-
+ _empty_/StructuralTypes.Record.2-
+ scala/Predef.ArrowAssoc#`->`().2(
+ scala/Predef.ArrowAssoc().2-
+. 0scala/Predef.ArrowAssoc#`->`().2(
+( (scala/Predef.ArrowAssoc().2-
+> @scala/Predef.ArrowAssoc#`->`().2(
+5 5scala/Predef.ArrowAssoc().2-
+T Z_empty_/StructuralTypes.Person#24
+ &_empty_/StructuralTypes.invalidPerson.2'
+? Kscala/Any#asInstanceOf().25
+ '_empty_/StructuralTypes.Record.apply().2-
+ _empty_/StructuralTypes.Record.2-
+$ &scala/Predef.ArrowAssoc#`->`().2(
+ scala/Predef.ArrowAssoc().2-
+8 :scala/Predef.ArrowAssoc#`->`().2(
+/ /scala/Predef.ArrowAssoc().2-
+L R_empty_/StructuralTypes.Person#2-
+ 
+_empty_/StructuralTypes.test().2
+ scala/Unit#2'
+ scala/Predef.println(+1).2=
+ /_empty_/StructuralTypes.Record#selectDynamic().2-
+ _empty_/StructuralTypes.person.2'
+ scala/Predef.println(+1).2=
+ /_empty_/StructuralTypes.Record#selectDynamic().2-
+ _empty_/StructuralTypes.person.2'
+ scala/Predef.println(+1).2=
+ /_empty_/StructuralTypes.Record#selectDynamic().24
+ &_empty_/StructuralTypes.invalidPerson.PZ 55C5C961D127F099B3E84A735C1159E8

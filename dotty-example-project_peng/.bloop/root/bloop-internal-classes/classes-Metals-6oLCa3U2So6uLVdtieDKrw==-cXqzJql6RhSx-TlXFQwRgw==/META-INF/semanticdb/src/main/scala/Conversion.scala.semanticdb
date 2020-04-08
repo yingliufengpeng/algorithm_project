@@ -1,0 +1,147 @@
+
+Ò(src\main\scala\Conversion.scala*:
+!_empty_/Conversion.DoubleWrapper# ˆ*DoubleWrapper€*
+local3 €*y€*
+local0 *$anon€*9
+!_empty_/Conversion.DoubleWrapper.
+ *DoubleWrapper€*F
+/_empty_/Conversion.IntWrapper#copy$default$1().*copy$default$1€*6
+,_empty_/Conversion.DoubleWrapper.apply().(b)*b€*9
+-_empty_/Conversion.IntWrapper.unapply().(x$1)*x$1€*<
+(_empty_/Conversion.convert().(converter)  *	converter€*4
+_empty_/Conversion.IntWrapper# ˆ*
+IntWrapper€*9
+,_empty_/Conversion.IntWrapper#`<init>`().(a) €*a€*S
+/_empty_/Conversion.IntWrapperToDoubleWrapper(). (*IntWrapperToDoubleWrapper€*2
+(_empty_/Conversion.IntWrapper#copy().(a)*a€*9
+#_empty_/Conversion.useConversion().*useConversion€*;
++_empty_/Conversion.DoubleWrapper.unapply().*unapply€*.
+#_empty_/Conversion.IntWrapper#_1().*_1€*>
+,_empty_/Conversion.DoubleWrapper#`<init>`(). €@*<init>€*I
+2_empty_/Conversion.DoubleWrapper#copy$default$1().*copy$default$1€*4
+&_empty_/Conversion.IntWrapper.apply().*apply€**
+ _empty_/Conversion.convert().[T]	*T€**
+ _empty_/Conversion.convert().(x)*x€*1
+&_empty_/Conversion.DoubleWrapper#_1().*_1€*(
+_empty_/Conversion.
+ *
+Conversion€*
+local2*i€*;
+)_empty_/Conversion.IntWrapper#`<init>`(). €@*<init>€*2
+%_empty_/Conversion.IntWrapper#copy().*copy€*-
+_empty_/Conversion.convert().*convert€*2
+&_empty_/Conversion.useConversion().(f)  *f€*5
+(_empty_/Conversion.DoubleWrapper#copy().*copy€*8
+(_empty_/Conversion.IntWrapper.unapply().*unapply€*7
+)_empty_/Conversion.DoubleWrapper.apply().*apply€*'
+_empty_/Conversion.test().*test€*3
+)_empty_/Conversion.IntWrapper.apply().(a)*a€*0
+#_empty_/Conversion.DoubleWrapper#b. €*b€*
+local1*apply€*<
+0_empty_/Conversion.DoubleWrapper.unapply().(x$1)*x$1€*-
+ _empty_/Conversion.IntWrapper#a. €*a€**
+ _empty_/Conversion.convert().[U]	*U€*3
+_empty_/Conversion.IntWrapper.
+ *
+IntWrapper€*
+local4 €*x€*<
+/_empty_/Conversion.DoubleWrapper#`<init>`().(b) €*b€*5
++_empty_/Conversion.DoubleWrapper#copy().(b)*b€26
+ ),scalaShadowing/language.implicitConversions.2"
+ scalaShadowing/language.2
+ scala/2!
+ _empty_/Conversion.2,
+ _empty_/Conversion.IntWrapper#27
+ )_empty_/Conversion.IntWrapper#`<init>`().2
+ 
+scala/Int#2&
+. .scala/AnyVal#`<init>`().2
+( .scala/AnyVal#2.
+  _empty_/Conversion.IntWrapper#a.2/
+ !_empty_/Conversion.DoubleWrapper#2:
+ %,_empty_/Conversion.DoubleWrapper#`<init>`().2
+ $scala/Double#2&
+4 4scala/AnyVal#`<init>`().2
+. 4scala/AnyVal#21
+ #_empty_/Conversion.DoubleWrapper#b.2+
+
+
+ _empty_/Conversion.convert().2.
+
+
+  _empty_/Conversion.convert().[T]2.
+
+
+  _empty_/Conversion.convert().[U]2.
+
+
+  _empty_/Conversion.convert().(x)2.
+
+
+  _empty_/Conversion.convert().[T]26
+
+ 
+ )(_empty_/Conversion.convert().(converter)2
+
++
+ 5scala/Conversion#2.
+
+6
+ 7 _empty_/Conversion.convert().[T]2.
+
+9
+ : _empty_/Conversion.convert().[U]2.
+
+>
+ ? _empty_/Conversion.convert().[U]2&
+
+K
+ Kscala/Function1#apply().26
+
+B
+ K(_empty_/Conversion.convert().(converter)2.
+
+L
+ M _empty_/Conversion.convert().(x)2=
+ !/_empty_/Conversion.IntWrapperToDoubleWrapper().2
+% /scala/Conversion#2,
+0 :_empty_/Conversion.IntWrapper#2/
+< I!_empty_/Conversion.DoubleWrapper#2*
+v vscala/Conversion#`<init>`().2
+Q [scala/Conversion#2,
+\ f_empty_/Conversion.IntWrapper#2/
+h u!_empty_/Conversion.DoubleWrapper#2
+ local12
+ local22,
+ $_empty_/Conversion.IntWrapper#2/
+' 4!_empty_/Conversion.DoubleWrapper#2:
+H H,_empty_/Conversion.DoubleWrapper#`<init>`().2/
+; H!_empty_/Conversion.DoubleWrapper#2#
+M Uscala/Int#toDouble().2.
+K L _empty_/Conversion.IntWrapper#a.2
+I Jlocal221
+ #_empty_/Conversion.useConversion().24
+ &_empty_/Conversion.useConversion().(f)2
+ 'scala/Conversion#2,
+( 2_empty_/Conversion.IntWrapper#2/
+4 A!_empty_/Conversion.DoubleWrapper#2
+ 	local32,
+ _empty_/Conversion.IntWrapper#27
+& &)_empty_/Conversion.IntWrapper#`<init>`().2,
+ &_empty_/Conversion.IntWrapper#2
+ 	local42/
+ !_empty_/Conversion.DoubleWrapper#2&
+ scala/Function1#apply().2
+ local32
+ local42(
+ 
+_empty_/Conversion.test().2
+ scala/Unit#2'
+ scala/Predef.println(+1).21
+ #_empty_/Conversion.useConversion().2=
+ /_empty_/Conversion.IntWrapperToDoubleWrapper().2'
+ scala/Predef.println(+1).2+
+ _empty_/Conversion.convert().27
+" ")_empty_/Conversion.IntWrapper#`<init>`().2,
+ "_empty_/Conversion.IntWrapper#2=
+' '/_empty_/Conversion.IntWrapperToDoubleWrapper().PZ DD6F8D0C8780E3492508035732579F05

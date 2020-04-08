@@ -1,0 +1,162 @@
+{
+    "version": "1.1.2",
+    "project": {
+        "name": "root-test",
+        "directory": "D:\\Dotty_repo\\algorithm_project\\dotty-example-project",
+        "workspaceDir": "D:\\Dotty_repo\\algorithm_project\\dotty-example-project",
+        "sources": [
+            "D:\\Dotty_repo\\algorithm_project\\dotty-example-project\\src\\test\\scala-0.23",
+            "D:\\Dotty_repo\\algorithm_project\\dotty-example-project\\src\\test\\scala",
+            "D:\\Dotty_repo\\algorithm_project\\dotty-example-project\\src\\test\\java",
+            "D:\\Dotty_repo\\algorithm_project\\dotty-example-project\\target\\scala-0.23\\src_managed\\test"
+        ],
+        "dependencies": [
+            "root"
+        ],
+        "classpath": [
+            "D:\\Dotty_repo\\algorithm_project\\dotty-example-project\\.bloop\\root\\scala-0.23\\classes",
+            "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo.huaweicloud.com\\repository\\maven\\ch\\epfl\\lamp\\dotty-library_0.23\\0.23.0-RC1\\dotty-library_0.23-0.23.0-RC1.jar",
+            "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar"
+        ],
+        "out": "D:\\Dotty_repo\\algorithm_project\\dotty-example-project\\.bloop\\root",
+        "classesDir": "D:\\Dotty_repo\\algorithm_project\\dotty-example-project\\.bloop\\root\\scala-0.23\\test-classes",
+        "resources": [
+            "D:\\Dotty_repo\\algorithm_project\\dotty-example-project\\src\\test\\resources",
+            "D:\\Dotty_repo\\algorithm_project\\dotty-example-project\\target\\scala-0.23\\resource_managed\\test"
+        ],
+        "scala": {
+            "organization": "ch.epfl.lamp",
+            "name": "scala-compiler",
+            "version": "0.23.0-RC1",
+            "options": [
+                "-bootclasspath",
+                "C:\\Program Files\\Java\\jdk1.8.0_121\\jre\\lib\\resources.jar;C:\\Program Files\\Java\\jdk1.8.0_121\\jre\\lib\\rt.jar;C:\\Program Files\\Java\\jdk1.8.0_121\\jre\\lib\\sunrsasign.jar;C:\\Program Files\\Java\\jdk1.8.0_121\\jre\\lib\\jsse.jar;C:\\Program Files\\Java\\jdk1.8.0_121\\jre\\lib\\jce.jar;C:\\Program Files\\Java\\jdk1.8.0_121\\jre\\lib\\charsets.jar;C:\\Program Files\\Java\\jdk1.8.0_121\\jre\\lib\\jfr.jar;C:\\Program Files\\Java\\jdk1.8.0_121\\jre\\classes"
+            ],
+            "jars": [
+                "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo.huaweicloud.com\\repository\\maven\\ch\\epfl\\lamp\\dotty-compiler_0.23\\0.23.0-RC1\\dotty-compiler_0.23-0.23.0-RC1.jar",
+                "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar",
+                "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\util-interface\\1.2.2\\util-interface-1.2.2.jar",
+                "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\compiler-interface\\1.2.5\\compiler-interface-1.2.5.jar",
+                "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-terminal\\3.9.0\\jline-terminal-3.9.0.jar",
+                "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo.huaweicloud.com\\repository\\maven\\ch\\epfl\\lamp\\tasty-core_0.23\\0.23.0-RC1\\tasty-core_0.23-0.23.0-RC1.jar",
+                "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-reader\\3.9.0\\jline-reader-3.9.0.jar",
+                "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna\\4.2.2\\jna-4.2.2.jar",
+                "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo.huaweicloud.com\\repository\\maven\\ch\\epfl\\lamp\\dotty-interfaces\\0.23.0-RC1\\dotty-interfaces-0.23.0-RC1.jar",
+                "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline-terminal-jna\\3.9.0\\jline-terminal-jna-3.9.0.jar",
+                "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo.huaweicloud.com\\repository\\maven\\ch\\epfl\\lamp\\dotty-library_0.23\\0.23.0-RC1\\dotty-library_0.23-0.23.0-RC1.jar",
+                "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo.huaweicloud.com\\repository\\maven\\org\\scala-lang\\modules\\scala-asm\\7.3.1-scala-1\\scala-asm-7.3.1-scala-1.jar"
+            ],
+            "analysis": "D:\\Dotty_repo\\algorithm_project\\dotty-example-project\\target\\streams\\test\\bloopAnalysisOut\\_global\\streams\\inc_compile_0.23.zip",
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": false,
+                "filterLibraryFromClasspath": false
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\Java\\jdk1.8.0_121\\jre",
+                "options": [
+                    "-Duser.dir=D:\\Dotty_repo\\algorithm_project\\dotty-example-project"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "ch.epfl.lamp",
+                    "name": "dotty-library_0.23",
+                    "version": "0.23.0-RC1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "dotty-library_0.23",
+                            "checksum": {
+                                "type": "sha1",
+                                "digest": "8e83fca38b4c58210bbf83d0f9fc146fb7d30b41"
+                            },
+                            "path": "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo.huaweicloud.com\\repository\\maven\\ch\\epfl\\lamp\\dotty-library_0.23\\0.23.0-RC1\\dotty-library_0.23-0.23.0-RC1.jar"
+                        },
+                        {
+                            "name": "dotty-library_0.23",
+                            "classifier": "sources",
+                            "checksum": {
+                                "type": "sha1",
+                                "digest": "01ebdb7238843fd92b1c2e9fc4c76050d111288f"
+                            },
+                            "path": "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo.huaweicloud.com\\repository\\maven\\ch\\epfl\\lamp\\dotty-library_0.23\\0.23.0-RC1\\dotty-library_0.23-0.23.0-RC1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Abner\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
