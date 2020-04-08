@@ -1,152 +1,0 @@
-
-®0#src\main\scala\ContextQueries.scala*7
--_empty_/ContextQueries.context.asyncSum().(x)*x€*7
--_empty_/ContextQueries.parse.sumStrings().(y)*y€*7
--_empty_/ContextQueries.context.asyncSum().(y)*y€*4
-*_empty_/ContextQueries.parse.Parseable#[T]	*T€*
-local4*b€*=
-*_empty_/ContextQueries.parse.sumStrings().*
-sumStrings€*
-local5*x€*
-local3*a€*>
-0_empty_/ContextQueries.context.asyncMult().(ctx)  *ctx€*7
--_empty_/ContextQueries.parse.sumStrings().(x)*x€*
-local0 €*parser€*
-local2 €*tryB€*-
-_empty_/ContextQueries.parse.
- *parse€*8
-._empty_/ContextQueries.context.asyncMult().(x)*x€*=
-+_empty_/ContextQueries.context.asyncMult().*	asyncMult€*8
-._empty_/ContextQueries.context.asyncMult().(y)*y€*
-local6*x€*0
-_empty_/ContextQueries.
- *ContextQueries€*+
-_empty_/ContextQueries.test().*test€*
-local1 €*tryA€*7
--_empty_/ContextQueries.context.Contextual#[T]	*T€*=
-*_empty_/ContextQueries.context.Contextual#*
-Contextual€*9
-'_empty_/ContextQueries.parse.Parseable#*	Parseable€*1
-_empty_/ContextQueries.context.
- *context€*;
-*_empty_/ContextQueries.context.asyncSum().*asyncSum€20
- )"scala/concurrent/ExecutionContext.20
- )"scala/concurrent/ExecutionContext#2&
-+ 1scala/concurrent/Future.2&
-+ 1scala/concurrent/Future#2
- scala/concurrent/2
- scala/2
- scala/util/Try.2
- scala/util/Try#2
- scala/util/2
- scala/2%
-		 _empty_/ContextQueries.2-
-	 _empty_/ContextQueries.context.28
-	 *_empty_/ContextQueries.context.Contextual#2;
- -_empty_/ContextQueries.context.Contextual#[T]20
- )"scala/concurrent/ExecutionContext#2;
-. /-_empty_/ContextQueries.context.Contextual#[T]28
- *_empty_/ContextQueries.context.asyncSum().2;
- -_empty_/ContextQueries.context.asyncSum().(x)2
- 
-scala/Int#2;
- -_empty_/ContextQueries.context.asyncSum().(y)2
- 
-scala/Int#28
-" ,*_empty_/ContextQueries.context.Contextual#2&
-- 3scala/concurrent/Future#2
-4 7
-scala/Int#2.
-B B scala/concurrent/Future.apply().2&
-< Bscala/concurrent/Future.2 
-E Fscala/Int#`+`(+4).2;
-C D-_empty_/ContextQueries.context.asyncSum().(x)2;
-G H-_empty_/ContextQueries.context.asyncSum().(y)29
- +_empty_/ContextQueries.context.asyncMult().2<
- ._empty_/ContextQueries.context.asyncMult().(x)2
- 
-scala/Int#2<
- ._empty_/ContextQueries.context.asyncMult().(y)2
-  
-scala/Int#2>
-( +0_empty_/ContextQueries.context.asyncMult().(ctx)20
-- ="scala/concurrent/ExecutionContext#2.
-G G scala/concurrent/Future.apply().2&
-A Gscala/concurrent/Future.2 
-J Kscala/Int#`*`(+3).2<
-H I._empty_/ContextQueries.context.asyncMult().(x)2<
-L M._empty_/ContextQueries.context.asyncMult().(y)2>
-N N0_empty_/ContextQueries.context.asyncMult().(ctx)2+
-	 _empty_/ContextQueries.parse.25
-	 '_empty_/ContextQueries.parse.Parseable#28
- *_empty_/ContextQueries.parse.Parseable#[T]24
-) 5&_empty_/ImpliedInstances.StringParser#2'
- (_empty_/ImpliedInstances.28
-6 7*_empty_/ContextQueries.parse.Parseable#[T]2
-= @scala/util/Try#28
-A B*_empty_/ContextQueries.parse.Parseable#[T]28
- *_empty_/ContextQueries.parse.sumStrings().2;
- -_empty_/ContextQueries.parse.sumStrings().(x)2"
- scala/Predef.String#2;
- -_empty_/ContextQueries.parse.sumStrings().(y)2"
-! 'scala/Predef.String#25
-* 3'_empty_/ContextQueries.parse.Parseable#2
-4 7
-scala/Int#2
-
- local02-
- dotty/DottyPredef.implicitly().24
-/ ;&_empty_/ImpliedInstances.StringParser#2'
- ._empty_/ImpliedInstances.2
-< ?
-scala/Int#2
-
- local12<
- ._empty_/ImpliedInstances.StringParser#parse().2
- local02;
- -_empty_/ContextQueries.parse.sumStrings().(x)2
-
- local22<
- ._empty_/ImpliedInstances.StringParser#parse().2
- local02;
- -_empty_/ContextQueries.parse.sumStrings().(y)2'
- scala/util/Try#flatMap().2
- local12
- 	local32#
-   scala/util/Try#map().2
-   local22
-   	local42 
-!! scala/Int#`+`(+4).2
-!! local32
-!! local42,
-%% 
-_empty_/ContextQueries.test().2
-%% scala/Unit#2C
-'&' ,5scala/concurrent/ExecutionContext.Implicits.global().2:
-'' %,scala/concurrent/ExecutionContext.Implicits.20
-'' "scala/concurrent/ExecutionContext.20
-(( ""scala/concurrent/Future#foreach().2-
-(( scala/ContextFunction1#apply().28
-(( *_empty_/ContextQueries.context.asyncSum().2-
-(( _empty_/ContextQueries.context.2C
-(( 5scala/concurrent/ExecutionContext.Implicits.global().2'
-(#( *scala/Predef.println(+1).2
-(#( #local52C
-(+( +5scala/concurrent/ExecutionContext.Implicits.global().20
-)) #"scala/concurrent/Future#foreach().29
-)) +_empty_/ContextQueries.context.asyncMult().2-
-)) _empty_/ContextQueries.context.2C
-)) 5scala/concurrent/ExecutionContext.Implicits.global().2'
-)$) +scala/Predef.println(+1).2
-)$) $local62C
-),) ,5scala/concurrent/ExecutionContext.Implicits.global().2'
-++ scala/Predef.println(+1).2-
-+&+ &scala/ContextFunction1#apply().28
-++ *_empty_/ContextQueries.parse.sumStrings().2+
-++ _empty_/ContextQueries.parse.2@
-+&+ &2_empty_/ImpliedInstances.StringParser.intParser().2'
-,, scala/Predef.println(+1).2-
-,&, &scala/ContextFunction1#apply().28
-,, *_empty_/ContextQueries.parse.sumStrings().2+
-,, _empty_/ContextQueries.parse.2@
-,&, &2_empty_/ImpliedInstances.StringParser.intParser().PZ 2EE612C018634E9E9A096EE0A234BC81
