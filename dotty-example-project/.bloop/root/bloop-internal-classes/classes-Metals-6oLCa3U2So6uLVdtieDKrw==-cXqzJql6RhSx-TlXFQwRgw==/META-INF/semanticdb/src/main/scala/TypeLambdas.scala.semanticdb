@@ -1,0 +1,44 @@
+
+Ã src\main\scala\TypeLambdas.scala* 
+_empty_/TypeLambdas.T#*T€*&
+_empty_/TypeLambdas.T#[X]	 €*X€*
+local0 €*m€*(
+_empty_/TypeLambdas.test().*test€*
+local1 €*tuple€*#
+_empty_/TypeLambdas.T#[Y]	*Y€*(
+_empty_/TypeLambdas.Tuple#*Tuple€*'
+_empty_/TypeLambdas.Tuple#[X]	*X€**
+_empty_/TypeLambdas.
+ *TypeLambdas€2"
+ _empty_/TypeLambdas.2$
+ _empty_/TypeLambdas.T#2'
+
+ _empty_/TypeLambdas.T#[X]2'
+ _empty_/TypeLambdas.T#[Y]2
+ scala/Predef.Map#2'
+ _empty_/TypeLambdas.T#[Y]2'
+ _empty_/TypeLambdas.T#[X]2(
+ _empty_/TypeLambdas.Tuple#2+
+ _empty_/TypeLambdas.Tuple#[X]2+
+ _empty_/TypeLambdas.Tuple#[X]2+
+ _empty_/TypeLambdas.Tuple#[X]2)
+		 
+_empty_/TypeLambdas.test().2
+		 scala/Unit#2
+ 	local02$
+ _empty_/TypeLambdas.T#2"
+ scala/Predef.String#2
+ 
+scala/Int#22
+ $scala/collection/MapFactory#apply().2
+ scala/Predef.Map.2-
+" $scala/Predef.ArrowAssoc#`->`().2(
+   scala/Predef.ArrowAssoc().2'
+ scala/Predef.println(+1).2
+ local02
+ local12(
+ _empty_/TypeLambdas.Tuple#2"
+ scala/Predef.String#2#
+   scala/Tuple2.apply().2'
+ scala/Predef.println(+1).2
+ local1PZ 429627CA4EA64DEC8734DD241F3E08C4

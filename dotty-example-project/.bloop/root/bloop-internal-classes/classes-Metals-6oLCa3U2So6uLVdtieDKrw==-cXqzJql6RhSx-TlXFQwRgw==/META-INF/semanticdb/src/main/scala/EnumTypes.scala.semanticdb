@@ -1,0 +1,185 @@
+
+Ã<src\main\scala\EnumTypes.scala*4
+*_empty_/EnumTypes.ListEnum.Cons#copy().(h)*h€*/
+"_empty_/EnumTypes.ListEnum.Cons#t. €*t€*,
+local2*calculateEarthWeightOnPlanets€*;
+._empty_/EnumTypes.ListEnum.Cons#`<init>`().(h) €*h€*3
+!_empty_/EnumTypes.ListEnum.Empty. €©*Empty€*6
+(_empty_/EnumTypes.ListEnum.Cons.apply().*apply€*7
+*_empty_/EnumTypes.Planet#`<init>`().(mass)*mass€*+
+_empty_/EnumTypes.ListEnum#[A]	 €*A€*3
+ _empty_/EnumTypes.Planet.Saturn. €©*Saturn€*,
+_empty_/EnumTypes.Planet# ”€*Planet€*1
+_empty_/EnumTypes.Planet.Earth. €©*Earth€*/
+"_empty_/EnumTypes.ListEnum.Cons#h. €*h€*6
+$_empty_/EnumTypes.Planet#`<init>`(). €@*<init>€*1
+_empty_/EnumTypes.Planet.Venus. €©*Venus€*5
++_empty_/EnumTypes.ListEnum.Cons.apply().(t)*t€*?
+)_empty_/EnumTypes.Planet#surfaceWeight().*surfaceWeight€*
+local3*earthWeight€*4
+*_empty_/EnumTypes.ListEnum.Cons#copy().(t)*t€*F
+4_empty_/EnumTypes.Planet#surfaceWeight().(otherMass)*	otherMass€*5
++_empty_/EnumTypes.ListEnum.Cons.apply().[A]	*A€*<
++_empty_/EnumTypes.ListEnum.Cons#$ordinal().*$ordinal€*;
+/_empty_/EnumTypes.ListEnum.Cons.unapply().(x$1)*x$1€*2
+ _empty_/EnumTypes.Planet#radius. €*radius€*/
+_empty_/EnumTypes.Planet.Mars. €©*Mars€*1
+ _empty_/EnumTypes.ListEnum.Cons# ˆ*Cons€*0
+_empty_/EnumTypes.ListEnum# ”€*ListEnum€*H
+1_empty_/EnumTypes.ListEnum.Cons#copy$default$1().*copy$default$1€*5
+!_empty_/EnumTypes.Planet.Neptune. €©*Neptune€*&
+_empty_/EnumTypes.test().*test€*0
+%_empty_/EnumTypes.ListEnum.Cons#_1().*_1€*8
+*_empty_/EnumTypes.Planet.valueOf().($name)*$name€*:
+*_empty_/EnumTypes.ListEnum.Cons.unapply().*unapply€*
+local0 €*	emptyList€*H
+1_empty_/EnumTypes.ListEnum.Cons#copy$default$2().*copy$default$2€*8
+&_empty_/EnumTypes.ListEnum#`<init>`(). €@*<init>€*(
+_empty_/EnumTypes.Planet#G. ˆ*G€*4
+!_empty_/EnumTypes.Planet.$values. €*$values€*=
++_empty_/EnumTypes.ListEnum.Cons#`<init>`(). €@*<init>€*
+local4 €*mass€*4
+'_empty_/EnumTypes.ListEnum.Cons#copy().*copy€*.
+_empty_/EnumTypes.ListEnum.
+ *ListEnum€*>
+4_empty_/EnumTypes.ListEnum.Cons#copy$default$1().[A]	*A€*
+local1 €*list€**
+_empty_/EnumTypes.Planet.
+ *Planet€*5
+!_empty_/EnumTypes.Planet.Mercury. €©*Mercury€*
+local5*p€*>
+4_empty_/EnumTypes.ListEnum.Cons#copy$default$2().[A]	*A€*3
+#_empty_/EnumTypes.Planet.valueOf().*valueOf€*A
+*_empty_/EnumTypes.Planet#surfaceGravity().*surfaceGravity€*1
+"_empty_/EnumTypes.Planet.values().*values€*&
+_empty_/EnumTypes.
+ *	EnumTypes€*;
+._empty_/EnumTypes.ListEnum.Cons#`<init>`().(t) €*t€*;
+,_empty_/EnumTypes.Planet#`<init>`().(radius)*radius€*7
+-_empty_/EnumTypes.ListEnum.Cons.unapply().[A]	*A€*5
+!_empty_/EnumTypes.Planet.Jupiter. €©*Jupiter€*-
+#_empty_/EnumTypes.ListEnum.Cons#[A]	*A€*0
+%_empty_/EnumTypes.ListEnum.Cons#_2().*_2€*.
+_empty_/EnumTypes.Planet#mass. €*mass€*4
+*_empty_/EnumTypes.ListEnum.Cons#copy().[A]	*A€*3
+ _empty_/EnumTypes.Planet.Uranus. €©*Uranus€*/
+ _empty_/EnumTypes.ListEnum.Cons.
+ *Cons€*5
++_empty_/EnumTypes.ListEnum.Cons.apply().(h)*h€2 
+ _empty_/EnumTypes.2)
+ _empty_/EnumTypes.ListEnum#24
+ &_empty_/EnumTypes.ListEnum#`<init>`().2,
+ _empty_/EnumTypes.ListEnum#[A]2.
+	  _empty_/EnumTypes.ListEnum.Cons#29
+ #+_empty_/EnumTypes.ListEnum.Cons#`<init>`().21
+ #_empty_/EnumTypes.ListEnum.Cons#[A]2)
+ _empty_/EnumTypes.ListEnum#21
+  !#_empty_/EnumTypes.ListEnum.Cons#[A]20
+ "_empty_/EnumTypes.ListEnum.Cons#h.20
+ "_empty_/EnumTypes.ListEnum.Cons#t.2/
+	 !_empty_/EnumTypes.ListEnum.Empty.24
+ &_empty_/EnumTypes.ListEnum#`<init>`().2'
+
+
+ _empty_/EnumTypes.Planet#22
+
+
+ +$_empty_/EnumTypes.Planet#`<init>`().2
+
+
+ scala/Double#2
+
+$
+ *scala/Double#2,
+
+
+ _empty_/EnumTypes.Planet#mass.2.
+
+
+ " _empty_/EnumTypes.Planet#radius.2)
+ _empty_/EnumTypes.Planet#G.28
+ *_empty_/EnumTypes.Planet#surfaceGravity().2#
+" #scala/Double#`/`(+6).2#
+ scala/Double#`*`(+6).2)
+ _empty_/EnumTypes.Planet#G.2,
+ !_empty_/EnumTypes.Planet#mass.2#
+, -scala/Double#`*`(+6).2.
+% + _empty_/EnumTypes.Planet#radius.2.
+. 4 _empty_/EnumTypes.Planet#radius.27
+ )_empty_/EnumTypes.Planet#surfaceWeight().2B
+ 4_empty_/EnumTypes.Planet#surfaceWeight().(otherMass)2
+! 'scala/Double#2#
+6 7scala/Double#`*`(+6).2B
+, 54_empty_/EnumTypes.Planet#surfaceWeight().(otherMass)28
+8 F*_empty_/EnumTypes.Planet#surfaceGravity().2/
+	 !_empty_/EnumTypes.Planet.Mercury.22
+ $_empty_/EnumTypes.Planet#`<init>`().2'
+ _empty_/EnumTypes.Planet#2-
+	 _empty_/EnumTypes.Planet.Venus.22
+ $_empty_/EnumTypes.Planet#`<init>`().2'
+ _empty_/EnumTypes.Planet#2-
+	 _empty_/EnumTypes.Planet.Earth.22
+ $_empty_/EnumTypes.Planet#`<init>`().2'
+ _empty_/EnumTypes.Planet#2,
+	 _empty_/EnumTypes.Planet.Mars.22
+ $_empty_/EnumTypes.Planet#`<init>`().2'
+ _empty_/EnumTypes.Planet#2/
+	 !_empty_/EnumTypes.Planet.Jupiter.22
+ $_empty_/EnumTypes.Planet#`<init>`().2'
+ _empty_/EnumTypes.Planet#2.
+	  _empty_/EnumTypes.Planet.Saturn.22
+ $_empty_/EnumTypes.Planet#`<init>`().2'
+ _empty_/EnumTypes.Planet#2.
+	  _empty_/EnumTypes.Planet.Uranus.22
+ $_empty_/EnumTypes.Planet#`<init>`().2'
+ _empty_/EnumTypes.Planet#2/
+	 !_empty_/EnumTypes.Planet.Neptune.22
+ $_empty_/EnumTypes.Planet#`<init>`().2'
+ _empty_/EnumTypes.Planet#2'
+ 
+_empty_/EnumTypes.test().2
+ scala/Unit#2
+ local02/
+ "!_empty_/EnumTypes.ListEnum.Empty.2)
+ _empty_/EnumTypes.ListEnum.2
+ local126
+ (_empty_/EnumTypes.ListEnum.Cons.apply().2.
+  _empty_/EnumTypes.ListEnum.Cons.2)
+ _empty_/EnumTypes.ListEnum.26
+- -(_empty_/EnumTypes.ListEnum.Cons.apply().2.
+) - _empty_/EnumTypes.ListEnum.Cons.2)
+  (_empty_/EnumTypes.ListEnum.26
+> >(_empty_/EnumTypes.ListEnum.Cons.apply().2.
+: > _empty_/EnumTypes.ListEnum.Cons.2)
+1 9_empty_/EnumTypes.ListEnum.2/
+K P!_empty_/EnumTypes.ListEnum.Empty.2)
+B J_empty_/EnumTypes.ListEnum.2'
+ scala/Predef.println(+1).2
+ local02'
+ scala/Predef.println(+1).2&
+ scala/StringContext#s().2*
+ scala/StringContext.apply().2
+ local12
+   %local22
+ &  1local32
+ 3  9scala/Double#2
+!
+! local42#
+!! scala/Double#`/`(+6).2
+!! local328
+!*! 8*_empty_/EnumTypes.Planet#surfaceGravity().2-
+!$! )_empty_/EnumTypes.Planet.Earth.2'
+!! #_empty_/EnumTypes.Planet.22
+"" $scala/collection/ArrayOps#foreach().2)
+"" scala/Predef.refArrayOps().20
+"" "_empty_/EnumTypes.Planet.values().2'
+"" _empty_/EnumTypes.Planet.2
+"" local52'
+## scala/Predef.println(+1).2&
+#?# ?scala/StringContext#s().2*
+## scala/StringContext.apply().2
+#"# #local527
+#+# 8)_empty_/EnumTypes.Planet#surfaceWeight().2
+#)# *local52
+#9# =local42
+&& !local2PZ E24651A169E3E3EFD2AFBC9B96454B3E

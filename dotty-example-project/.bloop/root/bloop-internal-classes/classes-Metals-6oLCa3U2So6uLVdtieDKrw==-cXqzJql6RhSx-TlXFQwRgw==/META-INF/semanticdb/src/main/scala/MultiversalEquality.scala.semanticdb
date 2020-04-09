@@ -1,0 +1,80 @@
+
+ê(src\main\scala\MultiversalEquality.scala*
+local7 (*given_Eql_A_BÄ*
+local8 (*given_Eql_B_AÄ*
+local2 Ä*aÄ*
+local3*BÄ*0
+#_empty_/MultiversalEquality.test().*testÄ*:
+_empty_/MultiversalEquality.
+ *MultiversalEqualityÄ*%
+local0 (*given_Eql_Int_StringÄ*
+local1*AÄ*
+local6 Ä*bÄ*
+local4 Ä*bÄ*
+local5 Ä*aÄ21
+ $'scalaShadowing/language.strictEquality.2"
+ scalaShadowing/language.2
+ scala/2*
+ _empty_/MultiversalEquality.21
+ 
+#_empty_/MultiversalEquality.test().2
+ scala/Unit#2
+
+ local02
+
+ 
+scala/Eql#2
+ 
+scala/Int#2"
+ scala/Predef.String#2 
+! (scala/Eql.derived.2
+  
+scala/Eql.2'
+ scala/Predef.println(+1).2
+ scala/Any#`==`().2'
+ scala/Predef.println(+1).2!
+ scala/Int#`==`(+6).2'
+ scala/Predef.println(+1).2
+ scala/Any#`==`().27
+ )scala/collection/IterableFactory#apply().2!
+ scala/package.List.27
+   )scala/collection/IterableFactory#apply().2#
+  scala/package.Vector.2
+
+ local12
+ local22
+
+ local32
+ local42
+ 	local52
+ local12
+ 	local62
+ local32
+
+ local72
+
+ 
+scala/Eql#2
+ local12
+ local32 
+ !scala/Eql.derived.2
+ 
+scala/Eql.2
+ 
+  local82
+ 
+  
+scala/Eql#2
+   local32
+   local12 
+   !scala/Eql.derived.2
+   
+scala/Eql.2'
+"" scala/Predef.println(+1).2
+"" scala/Any#`!=`().2
+"" local52
+"" local62'
+## scala/Predef.println(+1).2
+## scala/Any#`==`().2
+## local62
+## local5PZ 0E6D9D3C41744E9E7C7B2A907ED479AB
