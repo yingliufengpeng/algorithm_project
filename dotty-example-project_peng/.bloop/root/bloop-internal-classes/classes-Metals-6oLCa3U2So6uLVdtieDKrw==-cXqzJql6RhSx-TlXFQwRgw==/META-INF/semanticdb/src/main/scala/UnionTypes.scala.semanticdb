@@ -1,207 +1,0 @@
-
-Ç@src\main\scala\UnionTypes.scala*4
-(_empty_/UnionTypes.Empty.unapply().(x$1)*x$1€*3
-#_empty_/UnionTypes.Empty.unapply().*unapply€*(
-_empty_/UnionTypes.Cons#[A]	 €*A€*'
-local3 €*divisionResultFailure€*9
-*_empty_/UnionTypes.Success#copy().(double)*double€*,
-"_empty_/UnionTypes.Cons#copy().(h)*h€*5
-#_empty_/UnionTypes.Cons#`<init>`(). €@*<init>€*1
-#_empty_/UnionTypes.Success.apply().*apply€*,
-_empty_/UnionTypes.Cons#copy().*copy€*(
-_empty_/UnionTypes.List#[A]	 €*A€*(
-_empty_/UnionTypes.
- *
-UnionTypes€*;
-"_empty_/UnionTypes.DivisionByZero.
- *DivisionByZero€*+
- _empty_/UnionTypes.Success#_1().*_1€*.
-_empty_/UnionTypes.Success# ˆ*Success€*?
--_empty_/UnionTypes.DivisionByZero#`<init>`(). €@*<init>€*
-local0 €*m€*5
-&_empty_/UnionTypes.DivisionByZero#msg. €*msg€*/
-_empty_/UnionTypes.Division# *Division€*
-local4 €*list€*8
-*_empty_/UnionTypes.DivisionByZero.apply().*apply€*:
-._empty_/UnionTypes.DivisionByZero#copy().(msg)*msg€*6
-)_empty_/UnionTypes.DivisionByZero#copy().*copy€*'
-local2 €*divisionResultSuccess€*5
-%_empty_/UnionTypes.Success.unapply().*unapply€*9
-"_empty_/UnionTypes.DivisionResult#*DivisionResult€*(
-_empty_/UnionTypes.Cons#_1().*_1€*-
-_empty_/UnionTypes.Success.
- *Success€*6
-*_empty_/UnionTypes.Success.unapply().(x$1)*x$1€*(
-_empty_/UnionTypes.Cons# ˆ*Cons€*/
-!_empty_/UnionTypes.Empty.apply().*apply€*3
-&_empty_/UnionTypes.Cons#`<init>`().(t) €*t€*3
-&_empty_/UnionTypes.Cons#`<init>`().(h) €*h€*<
-"_empty_/UnionTypes.DivisionByZero# ˆ*DivisionByZero€*7
-&_empty_/UnionTypes.either().(division)*division€*,
-"_empty_/UnionTypes.Cons#copy().[A]	*A€*A
-2_empty_/UnionTypes.DivisionByZero#`<init>`().(msg) €*msg€*J
-3_empty_/UnionTypes.DivisionByZero#copy$default$1().*copy$default$1€*-
- _empty_/UnionTypes.Empty#copy().*copy€*8
-&_empty_/UnionTypes.Success#`<init>`(). €@*<init>€*.
- _empty_/UnionTypes.Cons.apply().*apply€*
-local1 €*d€*)
-_empty_/UnionTypes.Empty.
- *Empty€*6
-,_empty_/UnionTypes.Cons#copy$default$2().[A]	*A€*2
-"_empty_/UnionTypes.Cons.unapply().*unapply€*=
-1_empty_/UnionTypes.DivisionByZero.unapply().(x$1)*x$1€*@
-)_empty_/UnionTypes.Cons#copy$default$2().*copy$default$2€*5
-#_empty_/UnionTypes.List#`<init>`(). €@*<init>€*:
-+_empty_/UnionTypes.Success.apply().(double)*double€*6
-,_empty_/UnionTypes.Cons#copy$default$1().[A]	*A€*9
-'_empty_/UnionTypes.Division#`<init>`(). €@*<init>€*3
- _empty_/UnionTypes.safeDivide().*
-safeDivide€*+
-_empty_/UnionTypes.either().*either€*(
-_empty_/UnionTypes.Cons#_2().*_2€*<
-,_empty_/UnionTypes.DivisionByZero.unapply().*unapply€*6
-$_empty_/UnionTypes.Empty#`<init>`(). €@*<init>€**
-_empty_/UnionTypes.Empty# ˆ*Empty€*3
-'_empty_/UnionTypes.Cons.unapply().(x$1)*x$1€*-
-#_empty_/UnionTypes.Cons.apply().[A]	*A€*C
-,_empty_/UnionTypes.Success#copy$default$1().*copy$default$1€*-
-#_empty_/UnionTypes.Cons.apply().(t)*t€*@
-._empty_/UnionTypes.Success#`<init>`().(double) €*double€*
-local5 €*	emptyList€*4
-"_empty_/UnionTypes.Success#double. €*double€*'
-_empty_/UnionTypes.Cons.
- *Cons€*/
-%_empty_/UnionTypes.Cons.unapply().[A]	*A€*@
-)_empty_/UnionTypes.Cons#copy$default$1().*copy$default$1€*;
-/_empty_/UnionTypes.DivisionByZero.apply().(msg)*msg€*'
-_empty_/UnionTypes.Cons#t. €*t€*-
-#_empty_/UnionTypes.Cons.apply().(h)*h€*'
-_empty_/UnionTypes.test().*test€*-
-#_empty_/UnionTypes.safeDivide().(b)*b€*-
-#_empty_/UnionTypes.safeDivide().(a)*a€*'
-_empty_/UnionTypes.Cons#h. €*h€*,
-"_empty_/UnionTypes.Cons#copy().(t)*t€*/
-"_empty_/UnionTypes.Success#copy().*copy€*'
-_empty_/UnionTypes.List# *List€*2
-'_empty_/UnionTypes.DivisionByZero#_1().*_1€2!
- _empty_/UnionTypes.2*
- _empty_/UnionTypes.Division#25
- '_empty_/UnionTypes.Division#`<init>`().20
- !"_empty_/UnionTypes.DivisionByZero#2;
-! .-_empty_/UnionTypes.DivisionByZero#`<init>`().2"
-' -scala/Predef.String#2*
-7 ?_empty_/UnionTypes.Division#24
-" %&_empty_/UnionTypes.DivisionByZero#msg.2)
- _empty_/UnionTypes.Success#24
- *&_empty_/UnionTypes.Success#`<init>`().2
-# )scala/Double#2*
-3 ;_empty_/UnionTypes.Division#20
- !"_empty_/UnionTypes.Success#double.20
-
-
- "_empty_/UnionTypes.DivisionResult#2
-
-'
- (
-scala/`|`#20
-
-
- &"_empty_/UnionTypes.DivisionByZero#2)
-
-)
- 0_empty_/UnionTypes.Success#2&
- _empty_/UnionTypes.List#21
- #_empty_/UnionTypes.List#`<init>`().2)
- _empty_/UnionTypes.List#[A]2'
- _empty_/UnionTypes.Empty#22
- $_empty_/UnionTypes.Empty#`<init>`().2&
-# '_empty_/UnionTypes.List#2
-( /scala/Nothing#2&
- _empty_/UnionTypes.Cons#21
- -#_empty_/UnionTypes.Cons#`<init>`().2)
-  _empty_/UnionTypes.Cons#[A]2&
-% )_empty_/UnionTypes.List#2)
-* +_empty_/UnionTypes.Cons#[A]2&
-6 :_empty_/UnionTypes.List#2)
-; <_empty_/UnionTypes.Cons#[A]2)
- _empty_/UnionTypes.Cons#[A]2(
- _empty_/UnionTypes.Cons#h.2(
-" #_empty_/UnionTypes.Cons#t.2.
-  _empty_/UnionTypes.safeDivide().21
- #_empty_/UnionTypes.safeDivide().(a)2
- "scala/Double#21
-$ %#_empty_/UnionTypes.safeDivide().(b)2
-' -scala/Double#20
-0 >"_empty_/UnionTypes.DivisionResult#2$
-
- scala/Double#`==`(+3).21
- 	#_empty_/UnionTypes.safeDivide().(b)28
- *_empty_/UnionTypes.DivisionByZero.apply().20
- "_empty_/UnionTypes.DivisionByZero.21
-F F#_empty_/UnionTypes.Success.apply().2)
-? F_empty_/UnionTypes.Success.2#
-I Jscala/Double#`/`(+6).21
-G H#_empty_/UnionTypes.safeDivide().(a)21
-K L#_empty_/UnionTypes.safeDivide().(b)2*
- _empty_/UnionTypes.either().24
- &_empty_/UnionTypes.either().(division)2*
- '_empty_/UnionTypes.Division#24
-+ 3&_empty_/UnionTypes.either().(division)2:
- ,_empty_/UnionTypes.DivisionByZero.unapply().20
-	 "_empty_/UnionTypes.DivisionByZero.2
- local02&
-" "scala/util/Left.apply().2!
- "scala/package.Left.2
-# $local023
- %_empty_/UnionTypes.Success.unapply().2)
-	 _empty_/UnionTypes.Success.2
- local12'
- scala/util/Right.apply().2"
- scala/package.Right.2
- local12(
- 
-_empty_/UnionTypes.test().2
- scala/Unit#2
- local220
- -"_empty_/UnionTypes.DivisionResult#2.
-0 : _empty_/UnionTypes.safeDivide().2
- local32
-' (
-scala/`|`#2)
- &_empty_/UnionTypes.Success#20
-) 7"_empty_/UnionTypes.DivisionByZero#2.
-: D _empty_/UnionTypes.safeDivide().2'
-!! scala/Predef.println(+1).2*
-!! _empty_/UnionTypes.either().2
-!! (local22'
-$$ scala/Predef.println(+1).2*
-$$ _empty_/UnionTypes.either().2
-$$ (local32
-&& local42
-&& 
-scala/`|`#2&
-&& _empty_/UnionTypes.Cons#2
-&& 
-scala/Int#2'
-&& _empty_/UnionTypes.Empty#2.
-&&& & _empty_/UnionTypes.Cons.apply().2&
-&"& &_empty_/UnionTypes.Cons.2.
-&.& . _empty_/UnionTypes.Cons.apply().2&
-&*& ._empty_/UnionTypes.Cons.2.
-&6& 6 _empty_/UnionTypes.Cons.apply().2&
-&2& 6_empty_/UnionTypes.Cons.2/
-&?& ?!_empty_/UnionTypes.Empty.apply().2'
-&:& ?_empty_/UnionTypes.Empty.2
-'' local52
-'' 
-scala/`|`#2'
-'' _empty_/UnionTypes.Empty#2&
-'' _empty_/UnionTypes.Cons#2
-' ' #
-scala/Any#2/
-',' ,!_empty_/UnionTypes.Empty.apply().2'
-''' ,_empty_/UnionTypes.Empty.2'
-(( scala/Predef.println(+1).2
-(( local42'
-)) scala/Predef.println(+1).2
-)) local5PZ E357CB5F2DFF2F737B655505D72614E3

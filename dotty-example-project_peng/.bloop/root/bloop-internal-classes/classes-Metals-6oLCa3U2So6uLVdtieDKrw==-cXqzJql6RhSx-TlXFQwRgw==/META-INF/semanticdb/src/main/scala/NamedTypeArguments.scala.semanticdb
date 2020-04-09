@@ -1,124 +1,0 @@
-
-ø#'src\main\scala\NamedTypeArguments.scala*
-local8*i€*
-local9 €*compile€*
-local10*i€*
-local6  *F€*<
-1_empty_/NamedTypeArguments.listFunctor.map().(fa)*fa€*
-local2	*A€*8
--_empty_/NamedTypeArguments.Functor#map().(fa)*fa€*:
-0_empty_/NamedTypeArguments.listFunctor.map().[A]	*A€*9
--_empty_/NamedTypeArguments.listFunctor.map().*map€*=
-'_empty_/NamedTypeArguments.listFunctor.
- (*listFunctor€*
-local0*fmap€*:
-0_empty_/NamedTypeArguments.listFunctor.map().(f)*f€*
-local1	*F€*6
-,_empty_/NamedTypeArguments.Functor#map().[B]	*B€*6
-,_empty_/NamedTypeArguments.Functor#map().(f)*f€*/
-"_empty_/NamedTypeArguments.test().*test€*3
-#_empty_/NamedTypeArguments.Functor#*Functor€*
-local5*f€*@
-._empty_/NamedTypeArguments.Functor#`<init>`(). €@*<init>€*0
-&_empty_/NamedTypeArguments.Functor#[F]	*F€*:
-0_empty_/NamedTypeArguments.listFunctor.map().[B]	*B€*
-local4*fa€*8
-_empty_/NamedTypeArguments.
- *NamedTypeArguments€*
-local7 €*result€*6
-,_empty_/NamedTypeArguments.Functor#map().[A]	*A€*7
-)_empty_/NamedTypeArguments.Functor#map(). *map€*
-local3	*B€2)
- _empty_/NamedTypeArguments.21
- #_empty_/NamedTypeArguments.Functor#2<
- ._empty_/NamedTypeArguments.Functor#`<init>`().24
- &_empty_/NamedTypeArguments.Functor#[F]27
- )_empty_/NamedTypeArguments.Functor#map().2:
- ,_empty_/NamedTypeArguments.Functor#map().[A]2:
- ,_empty_/NamedTypeArguments.Functor#map().[B]2;
- -_empty_/NamedTypeArguments.Functor#map().(fa)24
- &_empty_/NamedTypeArguments.Functor#[F]2:
- ,_empty_/NamedTypeArguments.Functor#map().[A]2:
- ,_empty_/NamedTypeArguments.Functor#map().(f)2:
-  ,_empty_/NamedTypeArguments.Functor#map().[A]2:
-$ %,_empty_/NamedTypeArguments.Functor#map().[B]24
-( )&_empty_/NamedTypeArguments.Functor#[F]2:
-* +,_empty_/NamedTypeArguments.Functor#map().[B]25
-
-
- '_empty_/NamedTypeArguments.listFunctor.21
-
-&
- -#_empty_/NamedTypeArguments.Functor#2!
-
-.
- 2scala/package.List#2;
- -_empty_/NamedTypeArguments.listFunctor.map().2>
- 0_empty_/NamedTypeArguments.listFunctor.map().[A]2>
- 0_empty_/NamedTypeArguments.listFunctor.map().[B]2?
- 1_empty_/NamedTypeArguments.listFunctor.map().(fa)2!
- #scala/package.List#2>
-$ %0_empty_/NamedTypeArguments.listFunctor.map().[A]2>
-( )0_empty_/NamedTypeArguments.listFunctor.map().(f)2>
-+ ,0_empty_/NamedTypeArguments.listFunctor.map().[A]2>
-0 10_empty_/NamedTypeArguments.listFunctor.map().[B]2!
-4 8scala/package.List#2>
-9 :0_empty_/NamedTypeArguments.listFunctor.map().[B]24
-A D&scala/collection/immutable/List#map().2?
-> @1_empty_/NamedTypeArguments.listFunctor.map().(fa)2>
-E F0_empty_/NamedTypeArguments.listFunctor.map().(f)20
- 
-"_empty_/NamedTypeArguments.test().2
- scala/Unit#2
- local02
- local12
- local22
- local32
- local42
- local12
-  local22
-# $local52
-& 'local22
-+ ,local32
-7 8local621
-: A#_empty_/NamedTypeArguments.Functor#2
-B Clocal12
-G Hlocal12
-I Jlocal327
-P S)_empty_/NamedTypeArguments.Functor#map().2
-N Olocal62
-T Vlocal42
-X Ylocal52
- local72!
- scala/package.List#2
- 
-scala/Int#2
-  local02!
-% )scala/package.List#2
-/ 2
-scala/Int#2
-8 ;
-scala/Int#27
-A A)scala/collection/IterableFactory#apply().2!
-= Ascala/package.List.2
-J Klocal82 
-Q Rscala/Int#`+`(+4).2
-O Plocal825
-U U'_empty_/NamedTypeArguments.listFunctor.2'
- scala/Predef.println(+1).2
- local72
- local92!
- scala/package.List#2"
- scala/Predef.String#2
-  $local02!
-) -scala/package.List#2"
-3 9scala/Predef.String#27
-? ?)scala/collection/IterableFactory#apply().2!
-; ?scala/package.List.2
-H Ilocal102#
-U ]scala/Any#toString().2 
-P Qscala/Int#`+`(+4).2
-N Olocal1025
-^ ^'_empty_/NamedTypeArguments.listFunctor.2'
- scala/Predef.println(+1).2
- local9PZ 0EC2B8266C9BD239CA808BFB2CF0FC13

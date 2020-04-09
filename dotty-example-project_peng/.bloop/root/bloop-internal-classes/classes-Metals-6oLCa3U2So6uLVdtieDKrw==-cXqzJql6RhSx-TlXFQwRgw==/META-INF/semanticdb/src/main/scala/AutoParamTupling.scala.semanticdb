@@ -1,31 +1,0 @@
-
-ø%src\main\scala\AutoParamTupling.scala*4
-_empty_/AutoParamTupling.
- *AutoParamTupling€*
-local2*s€*-
- _empty_/AutoParamTupling.test().*test€*
-local3*i€*
-local0 À*xs€*
-local1*x$1€2'
- _empty_/AutoParamTupling.2.
- 
- _empty_/AutoParamTupling.test().2
- scala/Unit#2
- scala/volatile#2
- local02!
- scala/package.List#2"
-  &scala/Predef.String#27
-. .)scala/collection/IterableFactory#apply().2!
-* .scala/package.List.24
- &scala/collection/immutable/List#map().2I
- ;scala/collection/StrictOptimizedIterableOps#zipWithIndex().2
- local02
- local22
- scala/Tuple2#_1.2
- local32
- scala/Tuple2#_2.2'
-" )scala/Predef.println(+1).2&
-2 2scala/StringContext#s().2*
-, ,scala/StringContext.apply().2
-- .local32
-1 2local2PZ CA454E74C34EAF69F9088F6951CF7E9A

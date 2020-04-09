@@ -1,126 +1,0 @@
-
-ª%&src\main\scala\IntersectionTypes.scala*,
- _empty_/IntersectionTypes.X#x(). *x€*4
-*_empty_/IntersectionTypes.Point#copy().(y)*y€*
-local4 €*p2€*;
-._empty_/IntersectionTypes.Point#`<init>`().(x) €*x€*.
-!_empty_/IntersectionTypes.test().*test€*4
-*_empty_/IntersectionTypes.Point#copy().(x)*x€*6
-_empty_/IntersectionTypes.
- *IntersectionTypes€*/
-"_empty_/IntersectionTypes.Point#y. €*y€*0
-%_empty_/IntersectionTypes.Point#_1().*_1€*/
-"_empty_/IntersectionTypes.Point#x. €*x€*0
-"_empty_/IntersectionTypes.X#tpe(). *tpe€*0
-%_empty_/IntersectionTypes.Point#_2().*_2€*&
-_empty_/IntersectionTypes.P#*P€*2
-&_empty_/IntersectionTypes.Point#tpe().*tpe€*;
-._empty_/IntersectionTypes.Point#`<init>`().(y) €*y€*H
-1_empty_/IntersectionTypes.Point#copy$default$2().*copy$default$2€*0
- _empty_/IntersectionTypes.Point.
- *Point€*1
- _empty_/IntersectionTypes.Point# ˆ*Point€*0
-"_empty_/IntersectionTypes.Y#tpe(). *tpe€*H
-1_empty_/IntersectionTypes.Point#copy$default$1().*copy$default$1€*
-local2*p2€*6
-(_empty_/IntersectionTypes.Point.apply().*apply€*;
-/_empty_/IntersectionTypes.Point.unapply().(x$1)*x$1€*9
-'_empty_/IntersectionTypes.Y#`<init>`(). €@*<init>€*4
-'_empty_/IntersectionTypes.Point#copy().*copy€*:
-*_empty_/IntersectionTypes.Point.unapply().*unapply€*
-local3 €*p1€*,
- _empty_/IntersectionTypes.Y#y(). *y€*(
-_empty_/IntersectionTypes.Y# *Y€*
-local1*p1€*(
-_empty_/IntersectionTypes.PP#*PP€*(
-_empty_/IntersectionTypes.X# *X€*5
-+_empty_/IntersectionTypes.Point.apply().(x)*x€*=
-+_empty_/IntersectionTypes.Point#`<init>`(). €@*<init>€*5
-+_empty_/IntersectionTypes.Point.apply().(y)*y€*9
-'_empty_/IntersectionTypes.X#`<init>`(). €@*<init>€* 
-local0*euclideanDistance€2(
- _empty_/IntersectionTypes.2*
- _empty_/IntersectionTypes.X#25
- '_empty_/IntersectionTypes.X#`<init>`().2.
- 	 _empty_/IntersectionTypes.X#x().2
- scala/Double#20
- "_empty_/IntersectionTypes.X#tpe().2*
- _empty_/IntersectionTypes.X#2*
-
-
- _empty_/IntersectionTypes.Y#25
- '_empty_/IntersectionTypes.Y#`<init>`().2.
- 	 _empty_/IntersectionTypes.Y#y().2
- scala/Double#20
- "_empty_/IntersectionTypes.Y#tpe().2*
- _empty_/IntersectionTypes.Y#2*
- _empty_/IntersectionTypes.P#2
- 
-scala/`&`#2*
- _empty_/IntersectionTypes.Y#2*
- _empty_/IntersectionTypes.X#2+
- 	_empty_/IntersectionTypes.PP#2
- 
-scala/`&`#2*
- _empty_/IntersectionTypes.X#2*
- _empty_/IntersectionTypes.Y#2.
-  _empty_/IntersectionTypes.Point#29
- .+_empty_/IntersectionTypes.Point#`<init>`().2
- "scala/Double#2
-' -scala/Double#2*
-7 8_empty_/IntersectionTypes.X#2*
-> ?_empty_/IntersectionTypes.Y#20
- "_empty_/IntersectionTypes.Point#x.20
-$ %"_empty_/IntersectionTypes.Point#y.24
- &_empty_/IntersectionTypes.Point#tpe().2
- 
-scala/`&`#2*
- _empty_/IntersectionTypes.X#2*
- _empty_/IntersectionTypes.Y#2#
- !scala/Predef.`???`().2/
- 
-!_empty_/IntersectionTypes.test().2
- scala/Unit#2
- local02
- local12
-  !
-scala/`&`#2*
- _empty_/IntersectionTypes.X#2*
-" #_empty_/IntersectionTypes.Y#2
-% 'local22
-+ ,
-scala/`&`#2*
-) *_empty_/IntersectionTypes.X#2*
-- ._empty_/IntersectionTypes.Y#2$
- java/lang/Math#sqrt().2
- 
-java/lang/Math#2#
-) *scala/Double#`+`(+7).2#
- java/lang/Math#pow().2
- java/lang/Math#2#
- scala/Double#`-`(+6).2.
-  _empty_/IntersectionTypes.Y#y().2
- local22.
-# $ _empty_/IntersectionTypes.Y#y().2
-  "local12#
-0 3java/lang/Math#pow().2
-+ /java/lang/Math#2#
-9 :scala/Double#`-`(+6).2.
-7 8 _empty_/IntersectionTypes.X#x().2
-4 6local22.
-> ? _empty_/IntersectionTypes.X#x().2
-; =local12
- 
-local32*
- _empty_/IntersectionTypes.P#26
- (_empty_/IntersectionTypes.Point.apply().2.
-  _empty_/IntersectionTypes.Point.2
- 
-local42+
- _empty_/IntersectionTypes.PP#26
- (_empty_/IntersectionTypes.Point.apply().2.
-  _empty_/IntersectionTypes.Point.2'
- scala/Predef.println(+1).2
- local02
-  local32
-" $local4PZ 165A9573C9B15B60A3332FDE91C91AFB
