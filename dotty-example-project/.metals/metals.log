@@ -4179,3 +4179,45 @@ WARN  unsupported Scala 0.23.0-RC1
 WARN  unsupported Scala 0.23.0-RC1
 WARN  unsupported Scala 0.23.0-RC1
 WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Conversion.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Conversion.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Conversion.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Conversion.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.4s
