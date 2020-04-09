@@ -2907,3 +2907,1275 @@ WARN  unsupported Scala 0.23.0-RC1
 WARN  unsupported Scala 0.23.0-RC1
 INFO  compiling root (1 scala source)
 INFO  time: compiled root in 0.39s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+WARN  unsupported Scala 0.23.0-RC1
+INFO  time: compiled root in 0.15s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 89ms
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 90ms
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 86ms
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.42s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.42s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.35s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.24s
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\Main.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.26s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.48s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.48s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+四月 09, 2020 9:47:10 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 3915
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:8:42: stale bloop error: value $ is not a member of StringContext
+           case Branch(left, right) => $"left = $left right = $right"
+                                         ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:8:42: stale bloop error: value $ is not a member of StringContext
+           case Branch(left, right) => $"left = $left right = $right"
+                                         ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:8:42: stale bloop error: value $ is not a member of StringContext
+           case Branch(left, right) => $"left = $left right = $right"
+                                         ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:8:42: stale bloop error: value $ is not a member of StringContext
+           case Branch(left, right) => $"left = $left right = $right"
+                                         ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:8:42: stale bloop error: value $ is not a member of StringContext
+           case Branch(left, right) => $"left = $left right = $right"
+                                         ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:8:42: stale bloop error: value $ is not a member of StringContext
+           case Branch(left, right) => $"left = $left right = $right"
+                                         ^
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:8:42: stale bloop error: value $ is not a member of StringContext
+           case Branch(left, right) => $"left = $left right = $right"
+                                         ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:8:42: stale bloop error: value $ is not a member of StringContext
+           case Branch(left, right) => $"left = $left right = $right"
+                                         ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:8:42: stale bloop error: value $ is not a member of StringContext
+           case Branch(left, right) => $"left = $left right = $right"
+                                         ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:8:42: stale bloop error: value $ is not a member of StringContext
+           case Branch(left, right) => $"left = $left right = $right"
+                                         ^
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.36s
+四月 09, 2020 9:47:25 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 3986
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.48s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.47s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.32s
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.56s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.14s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.11s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.56s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.39s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.5s
+INFO  compiling root (1 scala source)
+WARN  unsupported Scala 0.23.0-RC1
+INFO  time: compiled root in 0.47s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.2s
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.25s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:9:20: stale bloop error: Missing type parameter for TreeDemo.Tree.Leaf
+           case p: Leaf => s"leaf = ${p.v}"
+                   ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:9:20: stale bloop error: Missing type parameter for TreeDemo.Tree.Leaf
+           case p: Leaf => s"leaf = ${p.v}"
+                   ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:9:20: stale bloop error: Missing type parameter for TreeDemo.Tree.Leaf
+           case p: Leaf => s"leaf = ${p.v}"
+                   ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:9:20: stale bloop error: Missing type parameter for TreeDemo.Tree.Leaf
+           case p: Leaf => s"leaf = ${p.v}"
+                   ^
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.44s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 3.69s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.15s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.11s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.56s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.36s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.51s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.6s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.58s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.56s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.51s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.15s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.13s
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.57s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.47s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.49s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.5s
+INFO  compiling root (1 scala source)
+WARN  unsupported Scala 0.23.0-RC1
+INFO  time: compiled root in 0.56s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.54s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.48s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+ERROR code navigation does not work for the file 'D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala' because the Scala version 0.23.0-RC1 is not supported. To fix this problem, change the Scala version to 2.13.1 or 2.12.11 or 2.11.12.
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  time: compiled root in 3.74s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (leaf.filter(cond), right.filter(cond)) match {
+                ^
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.52s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.12s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.13s
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.65s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.43s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:23:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.46s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.56s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.51s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+WARN  unsupported Scala 0.23.0-RC1
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  D:\Dotty_repo\algorithm_project\dotty-example-project\src\main\scala\TreeDemo.scala:29:17: stale bloop warning: match may not be exhaustive.
+
+It would fail on pattern case: (Tree.Branch(_, _), _), (Tree.Leaf(_), _)
+                (left.filter(cond), right.filter(cond)) match {
+                ^
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.48s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.35s
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.54s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.49s
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1
+WARN  unsupported Scala 0.23.0-RC1

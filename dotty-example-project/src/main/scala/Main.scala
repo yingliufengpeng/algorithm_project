@@ -28,10 +28,12 @@ object Main {
     // runExample("Structural Types")(StructuralTypes.test)
 
     // runExample("Pattern Matching")(PatternMatching.test)
-    
+
     runExample("new Array2")(ArrayDemo.test)
 
-    runExample("new Array2")(StackDemo.test)
+    runExample("new StackDemo")(StackDemo.test)
+
+    runExample("new TreeDemo")(TreeDemo.test)
 
   }
 
