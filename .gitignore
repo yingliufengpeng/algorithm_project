@@ -10,3 +10,6 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+target
+dotty-example-project/project/target
+dotty-example-project/target

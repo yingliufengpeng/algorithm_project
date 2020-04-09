@@ -1,0 +1,78 @@
+
+› src\main\scala\TraitParams.scala*3
+!_empty_/TraitParams.A#`<init>`(). €@*<init>€* 
+_empty_/TraitParams.B#*B€**
+_empty_/TraitParams.
+ *TraitParams€*8
+)_empty_/TraitParams.Base#`<init>`().(msg) €*msg€*(
+_empty_/TraitParams.test().*test€*,
+_empty_/TraitParams.Base#msg. €*msg€*6
+$_empty_/TraitParams.Base#`<init>`(). €@*<init>€*:
+$_empty_/TraitParams.printMessages().*printMessages€*&
+_empty_/TraitParams.Base#*Base€*
+local1*z€*3
+!_empty_/TraitParams.B#`<init>`(). €@*<init>€*7
+*_empty_/TraitParams.printMessages().(msgs)*msgs€* 
+_empty_/TraitParams.A#*A€*
+local0 €*x€2"
+ _empty_/TraitParams.2'
+ _empty_/TraitParams.Base#22
+ $_empty_/TraitParams.Base#`<init>`().2"
+ scala/Predef.String#2+
+ _empty_/TraitParams.Base#msg.2$
+ 	_empty_/TraitParams.A#2/
+ !_empty_/TraitParams.A#`<init>`().22
+ $_empty_/TraitParams.Base#`<init>`().2'
+ _empty_/TraitParams.Base#2$
+ 	_empty_/TraitParams.B#2/
+ !_empty_/TraitParams.B#`<init>`().22
+ $_empty_/TraitParams.Base#`<init>`().2'
+ _empty_/TraitParams.Base#22
+
+
+ $_empty_/TraitParams.printMessages().28
+
+
+  *_empty_/TraitParams.printMessages().(msgs)2
+
+%
+ &
+scala/`|`#2$
+
+#
+ $_empty_/TraitParams.A#2$
+
+'
+ (_empty_/TraitParams.B#2'
+
+.
+ 5scala/Predef.println(+1).2<
+
+F
+ N.scala/collection/IterableOnceOps#mkString(+1).21
+
+;
+ >#scala/collection/IterableOps#map().28
+
+6
+ :*_empty_/TraitParams.printMessages().(msgs)2+
+
+A
+ D_empty_/TraitParams.Base#msg.2)
+ 
+_empty_/TraitParams.test().2
+ scala/Unit#22
+ $_empty_/TraitParams.printMessages().2/
+ !_empty_/TraitParams.A#`<init>`().2$
+ _empty_/TraitParams.A#2/
+ !_empty_/TraitParams.B#`<init>`().2$
+ _empty_/TraitParams.B#2
+ 	local02
+ 
+scala/Int#2
+ 
+scala/Int#2
+ local12
+ local12&
+ scala/Function1#apply().2
+ local0PZ 0175787BF83D82C6F6DF71E3CD98C7C4
