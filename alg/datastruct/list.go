@@ -59,53 +59,58 @@ func (l *List) Front() *ListElement {
 }
 
 // PushBack push a element into list tail
-func (l *List) PushBack(v interface{}) interface{} {
+func (l *List) PushBack(v interface{}) (e *ListElement) {
 	l.mutex.Lock()
 	defer l.mutex.Unlock()
 	if 0 == l.len {
-		l.head = &ListElement{
+		e = &ListElement{
 			next:  nil,
 			prev:  nil,
 			list:  l,
 			Value: v,
 		}
-		l.tail = l.head
+		l.head = e
+		l.tail = e
 	} else {
-		l.tail.next = &ListElement{
+		e = &ListElement{
 			next:  nil,
 			prev:  l.tail,
 			list:  l,
 			Value: v,
 		}
-		l.tail = l.tail.next
+		l.tail.next = e
+		l.tail = e
 	}
 	l.len++
-	return v
+	return e
 }
 
 // PushFront push a element into list head
-func (l *List) PushFront(v interface{}) interface{} {
+func (l *List) PushFront(v interface{}) (e *ListElement) {
 	l.mutex.Lock()
 	defer l.mutex.Unlock()
 	if 0 == l.len {
-		l.tail = &ListElement{
+		e = &ListElement{
 			next:  nil,
 			prev:  nil,
 			list:  l,
 			Value: v,
 		}
-		l.head = l.tail
+		l.tail = e
+		l.head = e
 	} else {
-		l.head.prev = &ListElement{
+
+		e = &ListElement{
 			next:  l.head,
 			prev:  nil,
 			list:  l,
 			Value: v,
 		}
-		l.head = l.head.prev
+		l.head.prev = e
+		l.head = e
 	}
 	l.len++
-	return v
+	return e
 }
 
 // InsertBefore push a element into list before mark
@@ -147,7 +152,7 @@ func (l *List) InsertAfter(v interface{}, mark *ListElement) (e *ListElement) {
 }
 
 // Del delete a element from list
-func (l *List) Del(v interface{}) (interface{}, error) {
+func (l *List) Del(v interface{}) (*ListElement, error) {
 	if 0 == l.len {
 		return nil, errors.New("empty List")
 	}
@@ -167,7 +172,7 @@ func (l *List) Del(v interface{}) (interface{}, error) {
 				ptr.prev.next = ptr.next
 			}
 			l.len--
-			return v, nil
+			return ptr, nil
 		}
 		ptr = ptr.next
 	}

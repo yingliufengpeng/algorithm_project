@@ -80,31 +80,34 @@ func (q *Queue) Front() *QueueElement {
 }
 
 // Push push a element into queue tail
-func (q *Queue) Push(v interface{}) error {
+func (q *Queue) Push(v interface{}) (*QueueElement, error) {
 	q.mutex.Lock()
 	defer q.mutex.Unlock()
 	if q.Full() {
-		return errors.New("full queue")
+		return nil, errors.New("full queue")
 	}
+	var e *QueueElement
 	if 0 == q.len {
-		q.head = &QueueElement{
+		e = &QueueElement{
 			next:  nil,
 			prev:  nil,
 			queue: q,
 			Value: v,
 		}
+		q.head = e
 		q.tail = q.head
 	} else {
-		q.tail.next = &QueueElement{
+		e = &QueueElement{
 			next:  nil,
 			prev:  q.tail,
 			queue: q,
 			Value: v,
 		}
+		q.tail.next = e
 		q.tail = q.tail.next
 	}
 	q.len++
-	return nil
+	return e, nil
 }
 
 // Pop push a element into queue head

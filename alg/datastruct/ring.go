@@ -80,35 +80,38 @@ func (r *Ring) Front() *RingElement {
 }
 
 // Push push a element into ring tail
-func (r *Ring) Push(v interface{}) error {
+func (r *Ring) Push(v interface{}) (*RingElement, error) {
 	r.mutex.Lock()
 	defer r.mutex.Unlock()
 	if r.Full() {
-		return errors.New("full ring")
+		return nil, errors.New("full ring")
 	}
+	var e *RingElement
 	if 0 == r.len {
-		r.head = &RingElement{
+		e = &RingElement{
 			next:  nil,
 			prev:  nil,
 			ring:  r,
 			Value: v,
 		}
+		r.head = e
 		r.tail = r.head
 		r.head.next = r.tail
 		r.tail.prev = r.head
 	} else {
-		r.tail.next = &RingElement{
+		e = &RingElement{
 			next:  nil,
 			prev:  r.tail,
 			ring:  r,
 			Value: v,
 		}
+		r.tail.next = e
 		r.tail = r.tail.next
 		r.tail.next = r.head
 		r.head.prev = r.tail
 	}
 	r.len++
-	return nil
+	return e, nil
 }
 
 // Pop push a element into ring head
